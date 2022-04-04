@@ -88,7 +88,8 @@ plugins:
 jekyll_get_json:
   - data: cat
     json: 'https://catfact.ninja/fact'
-    cache: true
+  - data: results
+    json: 'https://speedskatingresults.com/api/json/personal_records?skater=46453'
 
 # Collections
 collections:
