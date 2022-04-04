@@ -11,8 +11,12 @@ gh-pages Branch:
 - The content of `_site` is added to gh-pages manually so that it can bypass github-pages and load jekyll gems
 
 To build the site:
-- Delete `_site` and `vendor` directories
+- Delete `_site` and `vendor` directories on the master branch
 - On terminal type:
     `chrisfiola.github.io % bundle config set --local path vendor/bundle`
     `chrisfiola.github.io % bundle install`
-    `chrisfiola.github.io % bundle exec jekyll build --trace` 
+    `chrisfiola.github.io % bundle exec jekyll build --trace`
+    
+To update site build:
+- Change branch to gh-pages `git checkout gh-pages`
+- Copy all the contents from master /_site/ into gh-pages: `git checkout master -- _site`
