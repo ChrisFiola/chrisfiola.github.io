@@ -1,0 +1,28 @@
+---
+format_version: '11'
+default_step_lib_source: https://github.com/bitrise-io/bitrise-steplib.git
+trigger_map:
+- push_branch: master
+  workflow: deploy-to-github-pages
+workflows:
+  deploy-to-github-pages:
+    steps:
+    - activate-ssh-key@4:
+        run_if: '{{getenv "SSH_RSA_PRIVATE_KEY" | ne ""}}'
+    - git-clone: {}
+    - script:
+        title: Install Jekyll
+        inputs:
+        - content: |-
+            #!/bin/bash
+            set -ex
+            # See: https://bundler.io/blog/2019/01/04/an-update-on-the-bundler-2-release.html
+            sudo gem install jekyll bundler
+            sudo bundle install
+    - script:
+        title: Deploy to Github Pages
+        inputs:
+        - content: |-
+            #!/bin/bash
+            set -ex
+            bundle exec jekyll build
