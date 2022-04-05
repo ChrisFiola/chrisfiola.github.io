@@ -18,6 +18,7 @@ workflows:
             set -x
 
             # write your script here
+            cd ..
             sudo gem install jekyll bundler
             sudo bundle install
 
@@ -37,6 +38,7 @@ workflows:
             set -x
 
             # write your script here
+            cd ..
             bundle exec jekyll build
 
             # or run a script from your repository, like:
