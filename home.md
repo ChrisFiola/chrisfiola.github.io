@@ -14,9 +14,11 @@ Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what 
 #### Personal bests:
 
 <div class="datatable-begin"></div>
+<tbody>
 {% for result in site.data.results.records %}
 Distance.             | Time                        | Location                | Date
 --------------------- | --------------------------  | ----------------------- | ------------------
 {{ result.distance}}  | {{ result.time }}           | {{ result.location }}   | {{ result.date }}
 {% endfor %}
+</tbody>
 <div class="datatable-end"></div>
