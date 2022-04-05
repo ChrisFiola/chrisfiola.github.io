@@ -8,7 +8,7 @@ Master Branch:
 - Update the homepage in the `home.md` file.
 
 `/docs`:
-- Contains the build which is built locally using `bundle exec jekyll serve --trace`
+- Contains the build which is built locally using `bundle exec jekyll build --trace`
 - The destination of the build is set in the _config.yml
 
 To build the site:
