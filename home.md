@@ -1,5 +1,5 @@
 ---
-layout: no-title-page
+layout: page
 permalink: /home/
 show_excerpts: true
 ---
