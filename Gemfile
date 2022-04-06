@@ -3,7 +3,6 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "jekyll-theme-so-simple"
 gem "kramdown-parser-gfm"
-gem "json"
 gem "webrick"
 
 group :jekyll_plugins do
