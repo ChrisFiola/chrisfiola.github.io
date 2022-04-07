@@ -97,11 +97,18 @@ collections:
   updates:
     output: true
     permalink: /:collection/:path/
+  hof:
+    output: true
+    permalink: /:collection/:path/
+  wip:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
   # What's up
-  - scope:
+  - 
+    scope:
       path: "_updates"
       type: updates
     values:
@@ -109,7 +116,8 @@ defaults:
       comments: true
       share: true
   # Hall of fame
-  - scope:
+  - 
+    scope:
       path: "_hof"
       type: hof
     value:
@@ -117,7 +125,8 @@ defaults:
       comments: true
       share: true
   # Work in progress
-  - scope:
+  - 
+    scope:
       path: "_wip"
       type: wip
     value:
