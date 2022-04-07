@@ -9,7 +9,7 @@ Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what 
 
 ###### Testing
 
-this works?
+this works? Today's date is Thursday, April 7, 2022
 	
 {{ site.data.cat.fact }}
 
