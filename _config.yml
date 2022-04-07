@@ -17,7 +17,7 @@
 destination: docs/
 
 remote_theme: mmistakes/so-simple-theme@3.2.0
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Christopher Fiola"
 description: "Speed skating sprint specialist aiming for Milano Cortina 2026"
