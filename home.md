@@ -7,7 +7,7 @@ show_excerpts: true
 
 Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what this is all about.
 
-<!-- Personal Records table -->
+<!-- Personal Records table -->ß
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <style type="text/css" media="screen">
