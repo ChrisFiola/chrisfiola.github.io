@@ -1,13 +1,22 @@
-name: GitHub Actions Test To Build Site in /docs
+name: Build and Deploy
 on: [push]
 jobs:
-  Build-With-Jekyll:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - run: sudo gem install jekyll bundler
-      - name: Check. out repository code
+      - name: Check out repository code
         uses: actions/checkout@master
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - run: bundle install
-      - run: bundle exec jekyll build
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+        
+      - name: Install dependencies and build
+        run: |
+          sudo gem install jekyll bundler
+          bundle install
+          bundle exec jekyll build
+          echo "🍏 This job's status is ${{ job.status }}."
+          
+      - name: Deploy
+        uses: ChrisFiola/github-action-build@master
+        with:
+          branch: master
+          folder: docs
