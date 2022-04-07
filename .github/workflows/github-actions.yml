@@ -16,7 +16,7 @@ jobs:
           echo "🍏 This job's status is ${{ job.status }}."
           
       - name: Deploy
-        uses: ChrisFiola/github-action-build@master
+        uses: JamesIves/github-pages-deploy-action@4.3.0
         with:
           branch: master
           folder: docs
