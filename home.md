@@ -7,12 +7,6 @@ show_excerpts: true
 
 Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what this is all about.
 
-#### Testing
-
-###### Cat Fact
-	
-{{ site.data.cat.fact }}
-
 <!-- Personal Records table -->
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
