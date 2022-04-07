@@ -87,8 +87,8 @@ plugins:
   
 #JSON Fetch
 jekyll_get_json:
-  - data: cat
-    json: 'https://catfact.ninja/fact'
+  - data: results21
+    json: 'https://speedskatingresults.com/api/json/season_bests?skater=46453&start=2021'
   - data: results
     json: 'https://speedskatingresults.com/api/json/personal_records?skater=46453'
 
