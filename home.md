@@ -7,9 +7,9 @@ show_excerpts: true
 
 Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what this is all about.
 
-###### Testing
+#### Testing
 
-this works? Today's date is Thursday, April 7, 2022
+###### Cat Fact
 	
 {{ site.data.cat.fact }}
 
