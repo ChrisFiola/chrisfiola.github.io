@@ -108,6 +108,22 @@ defaults:
       layout: post
       comments: true
       share: true
+  # Hall of fame
+  - scope:
+      path: "_hof"
+      type: hof
+    value:
+      layout: post
+      comments: true
+      share: true
+  # Work in progress
+  - scope:
+      path: "_wip"
+      type: wip
+    value:
+      layout: post
+      comments: true
+      share: true
 
 # Site Author
 author:
