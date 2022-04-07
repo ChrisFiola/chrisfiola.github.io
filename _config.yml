@@ -17,7 +17,7 @@
 destination: docs/
 
 remote_theme: mmistakes/so-simple-theme@3.2.0
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Christopher Fiola"
 description: "Speed skating sprint specialist aiming for Milano Cortina 2026"
@@ -38,9 +38,9 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: christopherfiola
+  shortname: "christopherfiola"
 twitter:
-  username: chrisfiola # site's Twitter username
+  username: "chrisfiola" # site's Twitter username
 
 # Liquid
 liquid:
@@ -97,30 +97,39 @@ collections:
   updates:
     output: true
     permalink: /:collection/:path/
+  hof:
+    output: true
+    permalink: /:collection/:path/
+  wip:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
   # What's up
-  - scope:
+  - 
+    scope:
       path: "_updates"
       type: updates
     values:
       layout: post
       comments: true
       share: true
-  # Hall of fame
-  - scope:
+  # Hall Of Fame
+  - 
+    scope:
       path: "_hof"
       type: hof
-    value:
+    values:
       layout: post
       comments: true
       share: true
-  # Work in progress
-  - scope:
+  # Work In Progress
+  - 
+    scope:
       path: "_wip"
       type: wip
-    value:
+    values:
       layout: post
       comments: true
       share: true
