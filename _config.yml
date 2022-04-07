@@ -121,7 +121,7 @@ defaults:
       path: "_hof"
       type: hof
     values:
-      layout: page
+      layout: page-comments
       comments: true
       share: true
   # Work In Progress
