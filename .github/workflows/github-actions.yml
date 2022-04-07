@@ -15,8 +15,8 @@ jobs:
           bundle exec jekyll build
           echo "🍏 This job's status is ${{ job.status }}."
           
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.3.0
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4.3.0
         with:
           branch: master
           folder: docs
