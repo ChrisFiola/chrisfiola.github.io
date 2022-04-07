@@ -115,21 +115,21 @@ defaults:
       layout: post
       comments: true
       share: true
-  # Hall of fame
+  # Hall Of Fame
   - 
     scope:
       path: "_hof"
       type: hof
-    value:
+    values:
       layout: post
       comments: true
       share: true
-  # Work in progress
+  # Work In Progress
   - 
     scope:
       path: "_wip"
       type: wip
-    value:
+    values:
       layout: post
       comments: true
       share: true
