@@ -88,7 +88,7 @@ plugins:
 #JSON Fetch
 jekyll_get_json:
   - data: results21
-    json: 'https://speedskatingresults.com/api/json/season_bests?skater=46453&start=2021'
+    json: 'https://speedskatingresults.com/api/json/season_bests?skater=46453&start=2021&end=2022'
   - data: results
     json: 'https://speedskatingresults.com/api/json/personal_records?skater=46453'
 
