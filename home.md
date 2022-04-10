@@ -10,7 +10,7 @@ Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what 
 
 # Upcoming events
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%ffffff&ctz=America%2FToronto&showTitle=1&showNav=1&showDate=1&showPrint=0&mode=AGENDA&showCalendars=0&title=Upcoming&hl=en&src=aGh0dWRiMWM0N3BtM2Zob3RyamVyYnY4azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457" style="border-width:0" width="400" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FToronto&showTitle=1&showNav=1&showDate=1&showPrint=0&mode=AGENDA&showCalendars=0&title=Upcoming&hl=en&src=aGh0dWRiMWM0N3BtM2Zob3RyamVyYnY4azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457" style="border-width:0" width="400" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- Personal Records table -->
 <head>
