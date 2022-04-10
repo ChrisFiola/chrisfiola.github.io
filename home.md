@@ -10,9 +10,6 @@ Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what 
 
 # Upcoming events
 
-<script type="text/javascript" src="https://stylemygcal.com/widget.js"></script>
-<div class="smgc-calendar-placeholder" id="smgc-cal-XfpbxzGuTIfGsvNyY8ZB"></div>
-
 <div data-tockify-component="mini" data-tockify-calendar="chrisfiola.github.io"></div>
 <script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
 
