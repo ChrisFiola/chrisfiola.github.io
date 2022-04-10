@@ -17,3 +17,5 @@ To build the site:
    - `chrisfiola.github.io % bundle config set --local path vendor/bundle`
    - `chrisfiola.github.io % bundle install`
    - `chrisfiola.github.io % bundle exec jekyll build --trace`
+
+Calendar Integration using tockify.com
