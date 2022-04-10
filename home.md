@@ -11,7 +11,7 @@ Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what 
 # Upcoming events
 
 <div data-tockify-component="mini" data-tockify-calendar="chrisfiola.github.io"></div>
-<script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
+<script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script><br />
 
 <!-- Personal Records table -->
 <head>
