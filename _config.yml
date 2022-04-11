@@ -162,6 +162,9 @@ footer_links:
   - title: GitHub
     url: https://github.com/chrisfiola
     icon: fab fa-github-square
-  - title: Feed
+  - title: Facebook
     url: https://www.facebook.com/chrisfiolacan
     icon: fab fa-facebook-square
+  - title: Youtube
+    url: https://www.youtube.com/channel/UC1OAPfnLXXvsZ0jb2IBk0Rg
+    icon: fab fa-youtube-square
