@@ -1,6 +1,6 @@
 var store = [{
         "title": "2021/2022",
-        "excerpt":"This is a test for the hall of fame of 2021/2022 season       Season Bests  Season Bests   Christopher Fiola (CAN)                 500      34,44      Calgary (CAN)      2022-03-19                  1000      1.08,43      Calgary (CAN)      2022-03-19                  1500      1.46,86      Calgary (CAN)      2022-03-20             Results  from SpeedskatingResults.com ","categories": [],
+        "excerpt":"You will find the best results of the season on this page. Best 500m of the season 🥇 Best 1000m of the season 🥇 Best 1500m of the season 🥇 Season Bests Season Bests Christopher Fiola (CAN) 500 34,44 Calgary (CAN) 2022-03-19 1000 1.08,43 Calgary (CAN) 2022-03-19 1500 1.46,86 Calgary...","categories": [],
         "tags": [],
         "url": "/hof/hof2122/"
       },{
