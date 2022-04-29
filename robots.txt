@@ -1,1 +1,1 @@
-Sitemap: https://www.chrisfiola.ca/home/sitemap.xml
+Sitemap: /sitemap.xml
