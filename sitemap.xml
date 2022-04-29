@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/hof/hof2122/</loc>
-<lastmod>2022-04-28T21:32:54+00:00</lastmod>
+<loc>https://www.chrisfiola.ca/home/hof/hof2122/</loc>
+<lastmod>2022-04-29T12:23:40+00:00</lastmod>
 </url>
 <url>
-<loc>/updates/new-update/</loc>
-<lastmod>2022-04-28T21:32:54+00:00</lastmod>
+<loc>https://www.chrisfiola.ca/home/updates/new-update/</loc>
+<lastmod>2022-04-29T12:23:40+00:00</lastmod>
 </url>
 <url>
-<loc>/hof/</loc>
+<loc>https://www.chrisfiola.ca/home/hof/</loc>
 </url>
 <url>
-<loc>/home/</loc>
+<loc>https://www.chrisfiola.ca/home/home/</loc>
 </url>
 <url>
-<loc>/updates/</loc>
+<loc>https://www.chrisfiola.ca/home/updates/</loc>
 </url>
 <url>
-<loc>/wip/</loc>
+<loc>https://www.chrisfiola.ca/home/wip/</loc>
 </url>
 </urlset>
