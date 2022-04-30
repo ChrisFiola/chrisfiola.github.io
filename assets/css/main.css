@@ -80,7 +80,7 @@
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 /** 1. Change the default font family in all browsers (opinionated). 2. Prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS. */
 /* Document ========================================================================== */
-html { font-family: "Source Sans Pro", sans-serif; /* 1 */ box-sizing: border-box; -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
+html { font-family: "Big Shoulders Inline Text", sans-serif; /* 1 */ box-sizing: border-box; -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 *, *::before, *::after { box-sizing: inherit; }
 
@@ -167,7 +167,7 @@ svg:not(:root) { overflow: hidden; }
 
 /* Forms ========================================================================== */
 /** 1. Change the font styles in all browsers (opinionated). 2. Remove the margin in Firefox and Safari. */
-button, input, optgroup, select, textarea { margin: 0; /* 2 */ font-family: "Source Sans Pro", sans-serif; /* 1 */ font-size: 100%; /* 1 */ line-height: 1.15; /* 1 */ }
+button, input, optgroup, select, textarea { margin: 0; /* 2 */ font-family: "Big Shoulders Inline Text", sans-serif; /* 1 */ font-size: 100%; /* 1 */ line-height: 1.15; /* 1 */ }
 
 /** Show the overflow in IE. 1. Show the overflow in Edge. */
 button, input { /* 1 */ overflow: visible; }
@@ -246,7 +246,7 @@ code, kbd, samp, pre { font-family: Menlo, Consolas, Monaco, "Courier New", Cour
 
 kbd { display: inline-block; margin: 0 0.125em; padding: 0.125em 0.5em; color: #000; border: 1px solid #cccccc; border-radius: 3px; background-color: #f7f7f7; font-size: 85%; text-shadow: 0 1px 0 #fff; -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25), inset 0 0 0 2px #fff; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25), inset 0 0 0 2px #fff; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Source Sans Pro", sans-serif; text-rendering: optimizeLegibility; /* enable common ligatures and kerning */ }
+h1, h2, h3, h4, h5, h6 { font-family: "Big Shoulders Inline Text", sans-serif; text-rendering: optimizeLegibility; /* enable common ligatures and kerning */ }
 
 h1 { font-size: 20.7385152499px; }
 
@@ -353,7 +353,7 @@ tr, td, th { vertical-align: middle; }
 
 .site-title a { text-decoration: none; }
 
-.site-description { margin-bottom: 1em; font-family: "Lora", serif; font-weight: 400; font-style: italic; }
+.site-description { margin-bottom: 1em; font-family: "Chathura", serif; font-weight: 400; font-style: italic; }
 
 .site-description { font-size: 16px; }
 
@@ -393,7 +393,7 @@ tr, td, th { vertical-align: middle; }
 
 .taxonomy-section + .taxonomy-section { margin-top: 2em; }
 
-.taxonomy-title { margin-bottom: 0.5em; font-family: "Source Sans Pro", sans-serif; }
+.taxonomy-title { margin-bottom: 0.5em; font-family: "Big Shoulders Inline Text", sans-serif; }
 
 .taxonomy-title { font-size: 28px; }
 
@@ -401,7 +401,7 @@ tr, td, th { vertical-align: middle; }
 
 @media screen and (min-width: 1280px) { .taxonomy-title { font-size: 32px; } }
 
-.taxonomy-index { display: grid; grid-column-gap: 2em; grid-template-columns: repeat(2, 1fr); margin: 0; padding: 0; font-family: "Source Sans Pro", sans-serif; font-size: 0.9rem; list-style: none; }
+.taxonomy-index { display: grid; grid-column-gap: 2em; grid-template-columns: repeat(2, 1fr); margin: 0; padding: 0; font-family: "Big Shoulders Inline Text", sans-serif; font-size: 0.9rem; list-style: none; }
 
 @media (min-width: 64em) { .taxonomy-index { grid-template-columns: repeat(3, 1fr); } }
 
@@ -429,7 +429,7 @@ tr, td, th { vertical-align: middle; }
 
 .toc-wrapper { display: inline-block; margin-bottom: 1.5em; border: 1px solid; border-radius: 0.25rem; }
 
-.toc-wrapper h2 { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; -webkit-box-align: center; -ms-flex-align: center; align-items: center; margin: 0; padding: 0.75rem 1rem; font-family: "Source Sans Pro", sans-serif; font-size: 0.75rem; text-transform: uppercase; cursor: pointer; }
+.toc-wrapper h2 { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; -webkit-box-align: center; -ms-flex-align: center; align-items: center; margin: 0; padding: 0.75rem 1rem; font-family: "Big Shoulders Inline Text", sans-serif; font-size: 0.75rem; text-transform: uppercase; cursor: pointer; }
 
 .toc-wrapper h2 .toc-toggle-icon { margin-left: 1rem; -webkit-transition: -webkit-transform 350ms ease; transition: -webkit-transform 350ms ease; transition: transform 350ms ease; transition: transform 350ms ease, -webkit-transform 350ms ease; }
 
@@ -439,7 +439,7 @@ tr, td, th { vertical-align: middle; }
 
 .toc-wrapper #markdown-toc.js-toc-is-open { display: block; height: auto; }
 
-.toc-wrapper li { padding: 0.3em 0; font-family: "Source Sans Pro", sans-serif; }
+.toc-wrapper li { padding: 0.3em 0; font-family: "Big Shoulders Inline Text", sans-serif; }
 
 .toc-wrapper li a { display: inline-block; color: inherit; font-size: 0.75rem; font-weight: 600; text-decoration: none; border-bottom: 1px dotted transparent; }
 
@@ -448,7 +448,7 @@ tr, td, th { vertical-align: middle; }
 /* ========================================================================== Page ========================================================================== */
 .page-wrapper { margin: 0 auto; padding-left: 1em; padding-right: 1em; max-width: 1024px; }
 
-.page-title { margin-bottom: 0.5em; font-family: "Lora", serif; font-weight: bold; font-style: italic; letter-spacing: -2px; }
+.page-title { margin-bottom: 0.5em; font-family: "Chathura", serif; font-weight: bold; font-style: italic; letter-spacing: -2px; }
 
 .page-title { font-size: 48px; }
 
@@ -474,7 +474,7 @@ tr, td, th { vertical-align: middle; }
 
 @media (min-width: 64em) { .page-sidebar { text-align: center; } }
 
-.page-sidebar .page-date, .page-sidebar .read-time { font-family: "Lora", serif; font-style: italic; white-space: nowrap; }
+.page-sidebar .page-date, .page-sidebar .read-time { font-family: "Chathura", serif; font-style: italic; white-space: nowrap; }
 
 @media (min-width: 64em) { .page-sidebar .read-time { display: block; } }
 
@@ -516,7 +516,7 @@ tr, td, th { vertical-align: middle; }
 
 .page-pagination-label { margin: 0; padding: 0; font-size: 1rem; }
 
-.page-pagination-title { margin: 0; padding: 0; font-family: "Lora", serif; font-size: 0.9rem; font-style: italic; }
+.page-pagination-title { margin: 0; padding: 0; font-family: "Chathura", serif; font-size: 0.9rem; font-style: italic; }
 
 /* Wide Layout Overrides ========================================================================== */
 .layout--home .page-wrapper, .layout--posts .page-wrapper, .layout--categories .page-wrapper, .layout--tags .page-wrapper, .layout--category .page-wrapper, .layout--tag .page-wrapper, .layout--collection .page-wrapper, .layout--search .page-wrapper { max-width: 768px; }
@@ -571,7 +571,7 @@ tr, td, th { vertical-align: middle; }
 
 .entry-header { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; }
 
-.entry-title { margin-bottom: 0.5rem; font-family: "Lora", serif; font-weight: bold; font-style: italic; letter-spacing: -1px; word-wrap: break-word; /* break long words that could overflow */ }
+.entry-title { margin-bottom: 0.5rem; font-family: "Chathura", serif; font-weight: bold; font-style: italic; letter-spacing: -1px; word-wrap: break-word; /* break long words that could overflow */ }
 
 .entry-title a { text-decoration: none; }
 
@@ -579,7 +579,7 @@ tr, td, th { vertical-align: middle; }
 
 .entry-image { -webkit-box-ordinal-group: 0; -ms-flex-order: -1; order: -1; width: 100%; margin-bottom: 0.5rem; }
 
-.entry-meta .entry-date, .entry-meta .read-time { font-family: "Lora", serif; font-style: italic; white-space: nowrap; }
+.entry-meta .entry-date, .entry-meta .read-time { font-family: "Chathura", serif; font-style: italic; white-space: nowrap; }
 
 .entry-meta .read-time + .entry-date::before { content: "\2022"; padding: 0 0.5em; }
 
@@ -639,7 +639,7 @@ tr, td, th { vertical-align: middle; }
 
 /* ========================================================================== BUTTONS ========================================================================== */
 /* Default button ========================================================================== */
-.btn { /* default */ display: inline-block; margin-bottom: 0.25em; padding: 0.5em 1em; font-family: "Source Sans Pro", sans-serif; font-size: 1rem; font-weight: bold; text-align: center; text-decoration: none; border-width: 0; border-radius: 0.25rem; cursor: pointer; /* fills width of parent container */ /* disabled */ /* extra large button */ /* large button */ /* small button */ }
+.btn { /* default */ display: inline-block; margin-bottom: 0.25em; padding: 0.5em 1em; font-family: "Big Shoulders Inline Text", sans-serif; font-size: 1rem; font-weight: bold; text-align: center; text-decoration: none; border-width: 0; border-radius: 0.25rem; cursor: pointer; /* fills width of parent container */ /* disabled */ /* extra large button */ /* large button */ /* small button */ }
 
 .btn .icon { margin-right: 0.5em; }
 
