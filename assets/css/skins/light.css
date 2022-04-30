@@ -27,7 +27,7 @@
 /* Colors */
 /* Syntax highlighting (base16) colors */
 /* ========================================================================== Base elements ========================================================================== */
-body { color: #404040; background: #fff; border-top-color: #626262; }
+body { color: #425564; background: #fff; border-top-color: #626262; }
 
 a { color: #0a71e2; }
 
@@ -36,7 +36,7 @@ a:hover { color: #0855aa; }
 blockquote { background-color: #e7f1fc; border-left-color: #0a71e2; }
 
 /* ========================================================================== Site-wide ========================================================================== */
-.site-title a { color: #404040; }
+.site-title a { color: #425564; }
 
 .copyright { color: gray; }
 

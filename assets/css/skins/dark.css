@@ -26,7 +26,7 @@
 /** Default Kramdown usage (no indents!): <div class="notice" markdown="1"> #### Headline for the Notice Text for the notice </div> */
 /* Colors */
 /* ========================================================================== Base elements ========================================================================== */
-body { color: #eaeaea; background: #252a34; border-top-color: #1a1d24; }
+body { color: #425564; background: #252a34; border-top-color: #1a1d24; }
 
 a { color: #00adb5; }
 
@@ -35,7 +35,7 @@ a:hover { color: #008288; }
 blockquote { background-color: #213741; border-left-color: #00adb5; }
 
 /* ========================================================================== Site-wide ========================================================================== */
-.site-title a { color: #eaeaea; }
+.site-title a { color: #425564; }
 
 .copyright { color: white; }
 
