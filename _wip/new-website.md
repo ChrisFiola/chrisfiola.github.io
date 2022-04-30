@@ -47,7 +47,7 @@ As of April 29th 2022,  I am mostly working on adding more content to this websi
 >#### - Adding a french option
 > I want to translate the website eventually and prompt the user for their language when they land on the website. Depending on the selection you will be redirected to the french version or the english version.
 >
-> For this I will need to redo the clone the website in french. Work in progress!  
+> For this I will need to clone the website in french. Work in progress!  
 
 ---------------------------------------------------
 
