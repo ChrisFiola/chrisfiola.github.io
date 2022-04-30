@@ -39,10 +39,11 @@ $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
 $serif-font-family: "Chathura", serif !default;
+$source-sans-pro: "Source Sans Pro", sans-serif !default;
 $sans-serif-font-family: "Big Shoulders Inline Text", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
-$base-font-family: $sans-serif-font-family !default;
+$base-font-family: $source-sans-pro !default;
 $headline-font-family: $sans-serif-font-family !default;
 $title-font-family: $serif-font-family !default;
 $description-font-family: $serif-font-family !default;
