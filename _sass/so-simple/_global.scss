@@ -74,9 +74,10 @@
 .site-title {
   margin: 0.5em 0 0;
   padding: 0;
+  text-transform: uppercase;
+  font-family: $sans-serif-font-family;
   @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
-  font-weight: 700;
-
+  font-weight: 900;
   a {
     text-decoration: none;
   }
@@ -85,7 +86,7 @@
 .site-description {
   margin-bottom: 1em;
   font-family: $description-font-family;
-  @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
+  font-size: 28px;
   font-weight: 400;
   font-style: italic;
 }

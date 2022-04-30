@@ -7,17 +7,18 @@ show_excerpts: true
 
 Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what this is all about.
 
-
+---
 # Upcoming events
 
 <div data-tockify-component="mini" data-tockify-calendar="chrisfiola.github.io"></div>
 <script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script><br />
 
+---
+
 <!-- Personal Records table -->
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <style type="text/css" media="screen">
-    body {font-family: 'Lucida Grande', Verdana, Arial, sans-serif; padding: 5px;}
     table.records {margin: 1em; border-collapse: collapse; }
     table.records td {padding: .2em .5em; }
     table.records td.distance {width: 5em; font-weight: bold;}
