@@ -80,7 +80,7 @@
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 /** 1. Change the default font family in all browsers (opinionated). 2. Prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS. */
 /* Document ========================================================================== */
-html { font-family: "Big Shoulders Inline Text", sans-serif; /* 1 */ box-sizing: border-box; -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
+html { font-family: "Source Sans Pro", sans-serif; /* 1 */ box-sizing: border-box; -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 *, *::before, *::after { box-sizing: inherit; }
 
@@ -167,7 +167,7 @@ svg:not(:root) { overflow: hidden; }
 
 /* Forms ========================================================================== */
 /** 1. Change the font styles in all browsers (opinionated). 2. Remove the margin in Firefox and Safari. */
-button, input, optgroup, select, textarea { margin: 0; /* 2 */ font-family: "Big Shoulders Inline Text", sans-serif; /* 1 */ font-size: 100%; /* 1 */ line-height: 1.15; /* 1 */ }
+button, input, optgroup, select, textarea { margin: 0; /* 2 */ font-family: "Source Sans Pro", sans-serif; /* 1 */ font-size: 100%; /* 1 */ line-height: 1.15; /* 1 */ }
 
 /** Show the overflow in IE. 1. Show the overflow in Edge. */
 button, input { /* 1 */ overflow: visible; }
@@ -393,7 +393,7 @@ tr, td, th { vertical-align: middle; }
 
 .taxonomy-section + .taxonomy-section { margin-top: 2em; }
 
-.taxonomy-title { margin-bottom: 0.5em; font-family: "Big Shoulders Inline Text", sans-serif; }
+.taxonomy-title { margin-bottom: 0.5em; font-family: "Source Sans Pro", sans-serif; }
 
 .taxonomy-title { font-size: 28px; }
 
@@ -401,7 +401,7 @@ tr, td, th { vertical-align: middle; }
 
 @media screen and (min-width: 1280px) { .taxonomy-title { font-size: 32px; } }
 
-.taxonomy-index { display: grid; grid-column-gap: 2em; grid-template-columns: repeat(2, 1fr); margin: 0; padding: 0; font-family: "Big Shoulders Inline Text", sans-serif; font-size: 0.9rem; list-style: none; }
+.taxonomy-index { display: grid; grid-column-gap: 2em; grid-template-columns: repeat(2, 1fr); margin: 0; padding: 0; font-family: "Source Sans Pro", sans-serif; font-size: 0.9rem; list-style: none; }
 
 @media (min-width: 64em) { .taxonomy-index { grid-template-columns: repeat(3, 1fr); } }
 
@@ -429,7 +429,7 @@ tr, td, th { vertical-align: middle; }
 
 .toc-wrapper { display: inline-block; margin-bottom: 1.5em; border: 1px solid; border-radius: 0.25rem; }
 
-.toc-wrapper h2 { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; -webkit-box-align: center; -ms-flex-align: center; align-items: center; margin: 0; padding: 0.75rem 1rem; font-family: "Big Shoulders Inline Text", sans-serif; font-size: 0.75rem; text-transform: uppercase; cursor: pointer; }
+.toc-wrapper h2 { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; -webkit-box-align: center; -ms-flex-align: center; align-items: center; margin: 0; padding: 0.75rem 1rem; font-family: "Source Sans Pro", sans-serif; font-size: 0.75rem; text-transform: uppercase; cursor: pointer; }
 
 .toc-wrapper h2 .toc-toggle-icon { margin-left: 1rem; -webkit-transition: -webkit-transform 350ms ease; transition: -webkit-transform 350ms ease; transition: transform 350ms ease; transition: transform 350ms ease, -webkit-transform 350ms ease; }
 
@@ -439,7 +439,7 @@ tr, td, th { vertical-align: middle; }
 
 .toc-wrapper #markdown-toc.js-toc-is-open { display: block; height: auto; }
 
-.toc-wrapper li { padding: 0.3em 0; font-family: "Big Shoulders Inline Text", sans-serif; }
+.toc-wrapper li { padding: 0.3em 0; font-family: "Source Sans Pro", sans-serif; }
 
 .toc-wrapper li a { display: inline-block; color: inherit; font-size: 0.75rem; font-weight: 600; text-decoration: none; border-bottom: 1px dotted transparent; }
 
