@@ -1,8 +1,8 @@
 ---
 title: "Start of the 2022-2023 season!"
 image: 
-  path: /images/new-season.jpg
-  thumbnail: /images/new-season.jpg
+  path: /images/new-season.JPG
+  thumbnail: /images/new-season.JPG
 ---
 
 After a month off I am finally back in training for the 2022-2023 season!
@@ -27,7 +27,7 @@ I ended the year with a series of amazing race which allowed me to take the firs
 
 This summer I will keep doing what I was doing last year: 3 weight training session a week with bike and sprints on the side.
 
-![Weight training](/images/weights.jpg) 
+![Weight training](/images/weights.JPG) 
 
 #### Stay Healthy, Focused and Smart
 We got off to a slow start last season due to the lack of racing during the pandemic. The training was good and if we keep the same recipe we should have great results.
