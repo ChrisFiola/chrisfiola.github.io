@@ -10,6 +10,7 @@ So I have decided to create a website about myself. Hopefully this will help pro
 
 The ultimate goal is Milan Cortina 2026 and we will see after...
 
+---
 ## Site's Content
 
 #### 1. [Homepage:](https://chrisfiola.github.io "Homepage:")
