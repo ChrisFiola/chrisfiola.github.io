@@ -4,6 +4,11 @@ var store = [{
         "tags": [],
         "url": "/hof/hof2122/"
       },{
+        "title": "Start of the 2022-2023 season!",
+        "excerpt":"After a month off I am finally back in training for the 2022-2023 season! Welcome Back! Coming off a strong end of the season in 2021-2022, I couldn’t wait to go back to training and push myself again. Last season was very odd and I had to overcome a lot...","categories": [],
+        "tags": [],
+        "url": "/updates/new-season/"
+      },{
         "title": "Welcome to my first post and to my new website",
         "excerpt":"So I have decided to create a website about myself. Hopefully this will help promote me and eventually gather more attention into what I’m working towards. The ultimate goal is Milan Cortina 2026 and we will see after… Site’s Content 1. Homepage: This is where you will find general information...","categories": [],
         "tags": [],
