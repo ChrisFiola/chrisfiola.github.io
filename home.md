@@ -5,7 +5,7 @@ show_excerpts: true
 ---
 # Enjoy your stay!
 
-Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what this is all about.
+>Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what this is all about.
 
 ---
 # Upcoming events
