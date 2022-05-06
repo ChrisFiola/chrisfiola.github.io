@@ -16,6 +16,12 @@
 #theme: jekyll-theme-so-simple
 destination: docs/
 
+# multiple languages
+languages: [en, fr]
+defaultLang: en
+default_locale_in_subfolder: false
+exclude_from_localizations: ["assets"]
+
 remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/default.css"
 locale: en-CA
@@ -84,7 +90,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
-  
+  - jekyll-multiple-languages-plugin
+
 #JSON Fetch
 jekyll_get_json:
   - data: results21

@@ -9,8 +9,16 @@
           {%- else -%}
             {%- assign url = link.url | relative_url -%}
           {%- endif -%}
-          <li><a href="{{ url }}">{{ link.title }}</a></li>
+          <li><a href={% t {{ link.url }} %}>{% t {{ link.title }} %}</a></li>
         {%- endfor -%}
+        <li> {% for lang in site.languages %}
+              {% if lang == site.default_lang %}
+                <li><a href=" {{ page.url }}"><i class="fa fa-globe size-16 color-gray-900"></i>{{ lang }}</a></li>
+              {% else %}
+                <li><a href="/{{ lang }}{{ page.url }}"><i class="fa fa-globe size-16 color-gray-900"></i>{{ lang }}</a></li>
+              {% endif %}
+              {%- endfor -%}
+        </li>
       </ul>
     </nav>
   </div><!-- /.navigation-wrapper -->

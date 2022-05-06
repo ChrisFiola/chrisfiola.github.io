@@ -1,0 +1,37 @@
+titles:
+  home: "Accueil"
+  hof: "Hall Of Fame"
+  wup: "Quoi de neuf?"
+  wip: "Travail en cours"
+  languages: "en/fr"
+urls:
+  home: /fr/home/
+  hof: /fr/hof/
+  wup: /fr/updates/
+  wip: /fr/wip/
+  languages: /
+hof:
+  hof2122:
+    title: "2021-2022"
+    text: "Vous allez retrouver les meilleurs résultats de la saison sur cette page (fr)"
+    perma: /fr/hof/hof2122
+updates:
+  new-season:
+    title: "Debut de la saison 2022-2023!"
+    text: "Après 1 mois de repos je suis enfin de retour à l'entrainement pour la saison 2022-2023!"
+    url: /fr/updates/new-season
+  new-update:
+    title: "Bienvenue a ma premiere publication et a mon nouveau site web"
+    text: "J'ai décidé de me créer un nouveau site web."
+    url: /fr/updates/new-update
+wip:
+  new-website:
+    title: "Site en construction 🚧"
+    text: "Vous trouvez ici le processus de développement pour ce site web et ce que j'essaie d'en faire."
+    url: /fr/wip/new-website
+generic:
+  accessibility:
+    lang-menu: "Sélecteur de langue"
+global:
+  french: "Français"
+  english: "Anglais"

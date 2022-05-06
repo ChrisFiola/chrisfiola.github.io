@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-redirect-from"
   gem "jekyll-get-json"
+  gem "jekyll-multiple-languages-plugin"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do

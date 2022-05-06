@@ -1,0 +1,37 @@
+titles:
+  home: "Home"
+  hof: "Hall Of Fame"
+  wup: "What's Up?"
+  wip: "Work in progress"
+  languages: "en/fr"
+urls:
+  home: /home/
+  hof: /hof/
+  wup: /updates/
+  wip: /wip/
+  languages: /
+hof:
+  hof2122:
+    title: "2021-2022"
+    text: "You will find the best results of the season on this page. (en)"
+    perma: /hof/hof2122/
+updates:
+  new-season:
+    title: "Start of the 2022-2023 season!"
+    text: "After a month off I am finally back in training for the 2022-2023 season!"
+    url: /updates/new-season/
+  new-update:
+    title: "Welcome to my first post and to my new website"
+    text: "So I have decided to create a website about myself. Hopefully this will help promote me and eventually gather more attention into what I’m working towards."
+    url: /updates/new-update/
+wip:
+  new-website:
+    title: "Website under construction 🚧"
+    text: "Here you will find the development process of this website and what I am trying to make out of it."
+    url: /wip/new-website/
+generic:
+  accessibility:
+    lang-menu: "Language switcher"
+global:
+  french: "French"
+  english: "English"

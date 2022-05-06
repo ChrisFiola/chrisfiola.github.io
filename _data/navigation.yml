@@ -1,14 +1,10 @@
 # Sample site navigation bar links
 
-- title: Home
-  url: /home
-- title: What's up?
-  url: /updates/
-- title: Hall Of Fame
-  url: /hof/
-- title: Work In Progress
-  url: /wip/
- #- title: Recipes
-   #url: /recipes/
- #- title: Search
-   #url: /search/
+- title: titles.home
+  url: urls.home
+- title: titles.wup
+  url: urls.wup
+- title: titles.hof
+  url: urls.hof
+- title: titles.wip
+  url: urls.wip
