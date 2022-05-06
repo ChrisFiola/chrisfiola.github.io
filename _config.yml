@@ -122,6 +122,16 @@ defaults:
       layout: post
       comments: true
       share: true
+      language: en
+- 
+   scope:
+     path: "/fr/_updates"
+     type: updates
+   values:
+     layout: post
+     comments: true
+     share: true
+     language: fr
   # Hall Of Fame
   - 
     scope:
