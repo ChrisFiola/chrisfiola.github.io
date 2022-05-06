@@ -2,6 +2,6 @@
 title: What's up?
 layout: collection
 permalink: /updates/
-collection: hof
+collection: updates
 entries_layout: grid
 ---
