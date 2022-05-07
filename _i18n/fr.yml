@@ -4,6 +4,8 @@ titles:
   wup: "Quoi de neuf?"
   wip: "Travail en cours"
   languages: "en/fr"
+mast:
+  description: "SPECIALISTE SPRINT EN PATINAGE DE VITESSE VISANT MILANO CORTINA 2026"
 urls:
   home: /fr/
   hof: /fr/hof/
