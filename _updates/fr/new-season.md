@@ -1,3 +1,13 @@
+---
+title: "Debut de la saison 2022-2023!"
+excerpt: "Après 1 mois de repos je suis enfin de retour à l'entrainement pour la saison 2022-2023!"
+language: fr
+image: 
+  path: /images/new-season.JPG
+  thumbnail: /images/new-season.JPG
+---
+(fr)
+
 After a month off I am finally back in training for the 2022-2023 season!
 
 ---
@@ -51,5 +61,6 @@ Check out his amazing content on:
 ![Youtube](/images/icons/youtube.svg) Youtube: [Antoine Gélinas-Beaulieu](https://www.youtube.com/user/antoinegbeaulieu)
 
 ---
+
 
 

@@ -1,3 +1,12 @@
+---
+title: "Website under construction 🚧"
+excerpt: "Here you will find the development process of this website and what I am trying to make out of it."
+language: en
+image: 
+  path: /images/github.webp
+  thumbnail: /images/github.webp
+---
+
 #### Here you will find the development process of this website and what I am trying to make out of it.
 
 ## Why a website ?

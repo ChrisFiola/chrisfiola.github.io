@@ -5,11 +5,10 @@ titles:
   wip: "Work in progress"
   languages: "en/fr"
 urls:
-  home: /home/
+  home: /
   hof: /hof/
   wup: /updates/
   wip: /wip/
-  languages: /
 hof:
   hof2122:
     title: "2021-2022"
@@ -35,3 +34,10 @@ generic:
 global:
   french: "French"
   english: "English"
+home:
+  enjoy: "Enjoy your stay!"
+  upcoming: "Upcoming Events"
+  record: "Personal Records"
+  results: "Results"
+  from: "from"
+  find: "Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what this is all about."

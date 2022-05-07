@@ -5,11 +5,10 @@ titles:
   wip: "Travail en cours"
   languages: "en/fr"
 urls:
-  home: /fr/home/
+  home: /fr/
   hof: /fr/hof/
   wup: /fr/updates/
   wip: /fr/wip/
-  languages: /
 hof:
   hof2122:
     title: "2021-2022"
@@ -35,3 +34,10 @@ generic:
 global:
   french: "Français"
   english: "Anglais"
+home:
+  enjoy: "Bienvenue!"
+  upcoming: "Événements à venir"
+  record: "Records Personnels"
+  results: "Résultats"
+  from: "de"
+  find: "Cliquez [ici](https://chrisfiola.github.io/fr/updates/new-update/) pour en apprendre plus sur ce site."

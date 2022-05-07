@@ -1,3 +1,12 @@
+---
+title: "Welcome to my first post and to my new website"
+excerpt: "So I have decided to create a website about myself. Hopefully this will help promote me and eventually gather more attention into what I’m working towards."
+language: en
+image: 
+  path: /images/first.JPG
+  thumbnail: /images/first.JPG
+---
+
 So I have decided to create a website about myself. Hopefully this will help promote me and eventually gather more attention into what I'm working towards.
 
 The ultimate goal is Milan Cortina 2026 and we will see after...

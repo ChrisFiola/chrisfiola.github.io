@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /home/
+permalink: /
 show_excerpts: true
 ---
-# Enjoy your stay!
+# {% t home.enjoy %}
 
->Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what this is all about.
+>{% t home.find %}
 
 ---
-# Upcoming events
+# {% t home.upcoming %}
 
 <div data-tockify-component="mini" data-tockify-calendar="chrisfiola.github.io"></div>
 <script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script><br />
@@ -29,10 +29,10 @@ show_excerpts: true
     a:visited {font-weight: normal;}
     a:hover {color: crimson;}
   </style>
-  <title>Personal Record</title>
+  <title>{% t home.record %}</title>
 </head>
 <body>
-  <h1>Personal Records</h1>
+  <h1>{% t home.record %}</h1>
   <h4>Christopher Fiola (CAN)</h4>
   <table>
   	{% for result in site.data.results.records %}
@@ -44,5 +44,5 @@ show_excerpts: true
   	</tr>
   	{% endfor %}
   </table>
-  <p><a href="https://speedskatingresults.com/index.php?p=17&s=46453"> Results </a> from <a href="https://speedskatingresults.com">SpeedskatingResults.com</a></p>
+  <p><a href="https://speedskatingresults.com/index.php?p=17&s=46453"> {% t home.results %} </a> {% t home.from %} <a href="https://speedskatingresults.com">SpeedskatingResults.com</a></p>
 </body>

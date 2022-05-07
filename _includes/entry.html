@@ -8,9 +8,9 @@
   <header class="entry-header">
     <h3 class="entry-title p-name">
       {% if entry.link %}
-        <a class="u-bookmark-of" href="{{ entry.link }}">{% t {{ entry.title }} %}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
+        <a class="u-bookmark-of" href="{{ entry.link }}">{{ entry.title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
       {% else %}
-        <a href="{{ entry.url | relative_url }}" rel="bookmark">{% t {{ entry.title }} %}</a>
+        <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ entry.title }}</a>
       {% endif %}
     </h3>
     {% if entry.image.thumbnail %}
@@ -25,7 +25,7 @@
   {% unless page.show_excerpts == false %}
     <div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
-        {% t {{ entry.excerpt }} %}
+        {{ entry.excerpt }}
       {% endif %}
     </div>
   {% endunless %}

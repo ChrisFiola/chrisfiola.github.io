@@ -24,7 +24,7 @@ exclude_from_localizations: ["assets"]
 
 remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/default.css"
-locale: en-CA
+locale: en
 title: "Christopher Fiola"
 description: "CANADIAN SPEED SKATING SPRINT SPECIALIST AIMING FOR MILANO CORTINA 2026"
 baseurl: "/"
@@ -58,8 +58,8 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
+#paginate: 10
+#paginate_path: /page:num/
 
 # Search
 search_full_content: false
@@ -116,12 +116,24 @@ defaults:
   # What's up
   - 
     scope:
-      path: "_updates"
+      path: "_updates/en"
       type: updates
     values:
+      permalink: updates/:title
       layout: post
       comments: true
       share: true
+      language: en
+  -
+    scope:
+      path: "_updates/fr"
+      type: updates
+    values:
+      permalink: /fr/updates/:title
+      layout: post
+      comments: true
+      share: true
+      language: fr
 
   # Hall Of Fame
   - 

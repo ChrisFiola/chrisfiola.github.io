@@ -1,3 +1,12 @@
+---
+title: "Bienvenue a ma premiere publication et a mon nouveau site web"
+excerpt: "J'ai décidé de me créer un nouveau site web."
+language: fr
+image: 
+  path: /images/first.JPG
+  thumbnail: /images/first.JPG
+---
+
 (fr test)
 So I have decided to create a website about myself. Hopefully this will help promote me and eventually gather more attention into what I'm working towards.
 

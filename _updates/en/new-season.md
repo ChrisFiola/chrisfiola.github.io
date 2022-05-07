@@ -1,4 +1,13 @@
-(fr test)
+---
+title: "Start of the 2022-2023 season!"
+excerpt: "After a month off I am finally back in training for the 2022-2023 season!"
+language: en
+image: 
+  path: /images/new-season.JPG
+  thumbnail: /images/new-season.JPG
+---
+
+(en)
 
 After a month off I am finally back in training for the 2022-2023 season!
 
