@@ -3,6 +3,7 @@ title: "2021-2022"
 excerpt: "Vous allez retrouver les meilleurs résultats de la saison sur cette page"
 layout: post
 language: fr
+date: 04-04-2022
 image: 
   path: /images/hof2122.JPG
   thumbnail: /images/hof2122.JPG

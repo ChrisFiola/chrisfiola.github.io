@@ -2,6 +2,7 @@
 title: "Site en construction 🚧"
 excerpt: "Vous trouvez ici le processus de développement pour ce site web et ce que j'essaie d'en faire."
 language: fr
+date: 04-04-2022
 image: 
   path: /images/github.webp
   thumbnail: /images/github.webp
