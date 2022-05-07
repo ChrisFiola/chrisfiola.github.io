@@ -35,7 +35,7 @@ var store = [{
         "url": "/wip/new-website/"
       },{
         "title": "Site en construction 🚧",
-        "excerpt":"Vous trouvez ici le processus de développement pour ce site ainsi que ce que j’essaie d’en faire. Pourquoi un site web? J’ai décidé de créer un site web pour moi-même dans le but de me promouvoir et d’attirer l’attention sur mon travail vers les Jeux Olympique de 2026. Ce site...","categories": [],
+        "excerpt":"Vous trouverez ici le processus de développement pour ce site ainsi que ce que j’essaie d’en faire. Pourquoi un site web? J’ai décidé de créer un site web pour moi-même dans le but de me promouvoir et d’attirer l’attention sur mon travail vers les Jeux Olympique de 2026. Ce site...","categories": [],
         "tags": [],
         "url": "/wip/nouveau-site/"
       }]
