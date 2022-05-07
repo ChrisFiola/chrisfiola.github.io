@@ -1,5 +1,5 @@
 ---
-title: Hall Of Fame 🏆
+title: titles.hof
 layout: collection
 sort_by: date
 sort_order: reverse

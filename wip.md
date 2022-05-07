@@ -1,5 +1,5 @@
 ---
-title: Work In Progress 🤔
+title: titles.wip
 layout: collection
 sort_by: date
 sort_order: reverse

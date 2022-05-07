@@ -1,5 +1,5 @@
 ---
-title: What's up?
+title: titles.wup
 layout: collection
 sort_by: date
 sort_order: reverse

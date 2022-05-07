@@ -1,4 +1,5 @@
 ---
+title: titles.homepage
 layout: page
 permalink: /
 show_excerpts: true
