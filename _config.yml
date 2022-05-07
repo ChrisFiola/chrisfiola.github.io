@@ -116,24 +116,12 @@ defaults:
   # What's up
   - 
     scope:
-      path: "_updates/en"
+      path: "_updates"
       type: updates
     values:
-      permalink: updates/:title
       layout: post
       comments: true
       share: true
-      language: en
-  -
-    scope:
-      path: "_updates/fr"
-      type: updates
-    values:
-      permalink: /fr/updates/:title
-      layout: post
-      comments: true
-      share: true
-      language: fr
 
   # Hall Of Fame
   - 

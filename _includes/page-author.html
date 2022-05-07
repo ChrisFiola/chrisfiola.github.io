@@ -14,7 +14,7 @@
   <div class="author-info">
     {%- if author.name -%}
       <div class="author-name">
-        {% if site.data.text[site.locale].by %}<em>{{ site.data.text[site.locale].by }}</em> {% endif %}<span class="p-name">{{ author.name }}</span>
+        {% if site.data.text[site.lang].by %}<em>{{ site.data.text[site.lang].by }}</em> {% endif %}<span class="p-name">{{ author.name }}</span>
       </div>
     {%- endif -%}
     {%- if author.links -%}

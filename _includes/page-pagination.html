@@ -1,19 +1,37 @@
 <nav class="page-pagination" role="navigation">
   {% if page.previous %}
+  {% if site.lang == 'en' %}
     <a class="page-previous" href="{{ page.previous.url | relative_url }}">
-      <h4 class="page-pagination-label">{{ site.data.text[site.locale].previous | default: 'Previous' }}</h4>
+      <h4 class="page-pagination-label">{{ site.data.text[site.lang].previous | default: 'Previous' }}</h4>
+      <span class="page-pagination-title">
+        <i class="fas fa-arrow-left"></i> {{ page.previous.title | markdownify | strip_html }}
+      </span>
+    </a>
+  {% elsif site.lang == 'fr' %}
+    <a class="page-previous" href="/fr{{ page.previous.url | relative_url }}">
+      <h4 class="page-pagination-label">{{ site.data.text[site.lang].previous | default: 'Previous' }}</h4>
       <span class="page-pagination-title">
         <i class="fas fa-arrow-left"></i> {{ page.previous.title | markdownify | strip_html }}
       </span>
     </a>
   {% endif %}
+  {% endif %}
 
   {% if page.next %}
+  {% if site.lang == 'en' %}
     <a class="page-next" href="{{ page.next.url | relative_url }}">
-      <h4 class="page-pagination-label">{{ site.data.text[site.locale].next | default: 'Next' }}</h4>
+      <h4 class="page-pagination-label">{{ site.data.text[site.lang].next | default: 'Next' }}</h4>
       <span class="page-pagination-title">
         {{ page.next.title | markdownify | strip_html }} <i class="fas fa-arrow-right"></i>
       </span>
     </a>
+  {% elsif site.lang == 'fr' %}
+    <a class="page-next" href="/fr{{ page.next.url | relative_url }}">
+      <h4 class="page-pagination-label">{{ site.data.text[site.lang].next | default: 'Next' }}</h4>
+      <span class="page-pagination-title">
+        {{ page.next.title | markdownify | strip_html }} <i class="fas fa-arrow-right"></i>
+      </span>
+    </a>
+  {% endif %}
   {% endif %}
 </nav>

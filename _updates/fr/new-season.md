@@ -6,55 +6,54 @@ image:
   path: /images/new-season.JPG
   thumbnail: /images/new-season.JPG
 ---
-(fr)
-
-After a month off I am finally back in training for the 2022-2023 season!
+Après un mois de repos je suis enfin de retour à l'entrainement pour la saison 2022-2023!
 
 ---
-# Welcome Back!
+# De retour!
 
-Coming off a strong end of the season in 2021-2022, I couldn't wait to go back to training and push myself again. Last season was very odd and I had to overcome a lot of obstacles on the way to my personal bests in March 2022.  
+Après une excellente fin de saison en 2021-2022, je ne me pouvais plus! J'avais hâte de retourner à l'entrainement et de me pousser à nouveau. La dernière saison a été très bizarre, j'ai dû passer par dessus plusieurs obstacles avant de parvenir à faire mes records personnels en Mars 2022.
 
-#### First in the 500m
-![First in the 500m](/images/screenshots/500.png)
+#### Premier au cumulatif du 500m
+![Premier au cumulatif du 500m](/images/screenshots/500.png)
 
-#### Second in the 1000m
-![Second in the 1000m](/images/screenshots/1000.png)
+#### Deuxième au cumulatif du 1000m
+![Deuxième au cumulatif du 1000m](/images/screenshots/1000.png)
 
-I ended the year with a series of amazing race which allowed me to take the first spot in the canadian ranking for the 500m and the second spot in the 1000m. This was a big a relief for me as I struggled all season.  
+J'ai terminé l'année avec une série d'excellentes courses qui m'ont permis de prendre le premier rang au classement cumulatif canadien au 500m et le deuxième rang au 1000m. Ça aura été un énorme soulagement pour moi de terminer la saison de cette façon... 
 
-**If you want to see theses races take a look at my [2021-2022 Hall Of Fame](https://chrisfiola.github.io/hof/hof2122) page!**
+
+**Si vous voulez voir ou revoir ces courses, allez jeter un coup d'oeil à ma page [2021-2022 Hall Of Fame!](https://www.chrisfiola.ca/fr/hof/hof2122)**
 
 ---
-# What's for summer?
+# Pour l'été?
 
-This summer I will keep doing what I was doing last year: 3 weight training session a week with bike and sprints on the side.
+Cet été je vais continuer de faire ce que je faisais l'année dernière: 3 entrainements de musculation par semaine avec du vélo et des sprints entre tout ça.
 
 ![Weight training](/images/weights.JPG) 
 
-#### Stay Healthy, Focused and Smart
-We got off to a slow start last season due to the lack of racing during the pandemic. The training was good and if we keep the same recipe we should have great results.
+#### Rester en santé, Concentré et Intelligent
+La saison passée a commencée au ralenti puisque je n'ai pas pu courser durant la pandémie. L'entrainement était bon par exemple et si je garde la même recette je devrais obtenir de bons résultats à nouveau.
 
-If you want to follow along in real time all my training is logged on my [**strava page**](https://www.strava.com/athletes/1186944). Even the walks in the park with my cat! *(yes that's a thing)*
+Si vous voulez suivre mon parcours en temps réel, tous mes entrainements sont répertoriés sur ma **page strava**](https://www.strava.com/athletes/1186944). Même les marches dans le parc avec mon chat! *(oui c'est vrai)*
 
-An olympic cycle is 4 years and if I want to reach 2026 I have to make smart decisions and take care of my body. This will be the goal for this summer and for the whole season as well. I have a tendency to do too much by impulse... this will definitely be a challenge for me! :)
-
----
-## When is the first race?
-
-Racing does not begin officially until fall but we will have time trials here and there throughout the summer to get us ready before fall.  
-
-Stay tuned to my [homepage](https://chrisfiola.github.io/home) for all the updates on the next events to come. You will find the next 3 upcoming events in that section.
+Un cycle olympique prend 4 ans, si je veux me rendre jusqu'en 2026 je dois prendre des décisions intelligente et prendre soin de mon corps. Ce sera l'objectif de cet été ainsi que pour toute la saison. J'ai une tendance à en faire trop par impulsion... ça sera vraiment un défi pour moi! :)
 
 ---
+## Quand sera la première course?
 
-## Who took the photos on this post? 📸
+Les courses ne commencent pas officiellement avant l'automne. Cependant, nous aurons des courses de pratique d'ici là pour nous préparer avant les séléctions d'automne. 
+
+Restez à l'affût de ma [page d'accueil](https://www.chrisfiola.ca) afin d'obtenir les prochaines mise à jours sur les événements à venir. Vous y trouverez les 3 prochains événements à venir.
+
+---
+
+## Qui a pris les photos dans cette publication? 📸
 
 ![Tony!](/images/tony.png)  
 
-Thanks to my friend and olympian Antoine-Gélinas Beaulieu for the pictures used here!  
+Merci à mon bon ami et olympien Antoine-Gélinas Beaulieu pour les excellentes photos dans cette publication! 
 
-Check out his amazing content on:  
+Allez-voir son contenu sur ses réseaux sociaux:  
 
 ![Instagram](/images/icons/insta.svg) Instagram: [@antoinegbeaulieu](https://www.instagram.com/antoinegbeaulieu/)  
 ![Facebook](/images/icons/fb.svg) Facebook: [@antoinegbeaulieu](https://www.facebook.com/antoinegbeaulieu)  
