@@ -1,10 +1,11 @@
 ---
 title: "Welcome to my first post and to my new website"
-excerpt: "So I have decided to create a website about myself. Hopefully this will help promote me and eventually gather more attention into what I’m working towards."
+excerpt: "So I have decided to create a website about myself."
 language: en
+date: 04-04-2022
 image: 
-  path: /images/first.JPG
-  thumbnail: /images/first.JPG
+  path: /images/first.jpg
+  thumbnail: /images/first.jpg
 ---
 
 So I have decided to create a website about myself. Hopefully this will help promote me and eventually gather more attention into what I'm working towards.

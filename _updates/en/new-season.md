@@ -2,6 +2,7 @@
 title: "Start of the 2022-2023 season!"
 excerpt: "After a month off I am finally back in training for the 2022-2023 season!"
 language: en
+date: 01-05-2022
 image: 
   path: /images/new-season.JPG
   thumbnail: /images/new-season.JPG

@@ -30,7 +30,7 @@ description: "CANADIAN SPEED SKATING SPRINT SPECIALIST AIMING FOR MILANO CORTINA
 baseurl: "/"
 url: #"https://chrisfiola.github.io"
 logo: "/images/skating.jpg" #/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
-date_format: "%B %-d, %Y"
+date_format: "%-d %B, %Y"
 read_time: true
 words_per_minute: 200
 mathjax:
@@ -103,13 +103,13 @@ jekyll_get_json:
 collections:
   updates:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
   hof:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
   wip:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
 
 # Front Matter Defaults
 defaults:

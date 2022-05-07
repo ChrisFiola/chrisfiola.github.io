@@ -2,10 +2,12 @@
 title: "Debut de la saison 2022-2023!"
 excerpt: "Après 1 mois de repos je suis enfin de retour à l'entrainement pour la saison 2022-2023!"
 language: fr
+date: 01-05-2022
 image: 
   path: /images/new-season.JPG
   thumbnail: /images/new-season.JPG
 ---
+
 Après un mois de repos je suis enfin de retour à l'entrainement pour la saison 2022-2023!
 
 ---
