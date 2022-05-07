@@ -8,7 +8,7 @@ image:
   thumbnail: /images/github.webp
 ---
 
-#### Vous trouvez ici le processus de développement pour ce site ainsi que ce que j'essaie d'en faire.
+#### Vous trouverez ici le processus de développement pour ce site ainsi que ce que j'essaie d'en faire.
 
 ## Pourquoi un site web?
 
