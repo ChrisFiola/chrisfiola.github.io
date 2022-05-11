@@ -20,3 +20,24 @@ sitemap: false
     width: 100%;
     height: 100%;
 }
+
+html {
+  scroll-behavior: smooth;
+  height: 100%;
+}
+
+.fixed {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.nav-item {
+  border-radius: 10px;
+  padding: 0px 1px;
+  transition: 0.25s ease-in-out;
+  }
