@@ -38,4 +38,9 @@ var store = [{
         "excerpt":"Vous trouverez ici le processus de développement pour ce site ainsi que ce que j’essaie d’en faire. Pourquoi un site web? J’ai décidé de créer un site web pour moi-même dans le but de me promouvoir et d’attirer l’attention sur mon travail vers les Jeux Olympique de 2026. Ce site...","categories": [],
         "tags": [],
         "url": "/wip/nouveau-site/"
+      },{
+        "title": "Silence on tourne! 🎬",
+        "excerpt":"Vous trouverez ici le développement du court métrage présentement en tournage. Silence on tourne! Je suis présentement en tournage depuis presque 1 mois avec mon ami et patineur de vitesse Antoine Gélinas-Beaulieu. Le but du tournage c’est d’avoir un vidéo qui me représente et qui pourra être utilisé pour participer...","categories": [],
+        "tags": [],
+        "url": "/wip/court-metrage/"
       }]
