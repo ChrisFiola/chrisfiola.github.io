@@ -39,6 +39,11 @@ var store = [{
         "tags": [],
         "url": "/wip/nouveau-site/"
       },{
+        "title": "Quiet on the set! 🎬",
+        "excerpt":"You will find here the filming process for the short film currently in the making. Quiet on the set! I have been filming for almost a month now with my friend and speed skater Antoine Gélinas-Beaulieu. The goal of this short is to have a video that represents me and...","categories": [],
+        "tags": [],
+        "url": "/wip/short-film/"
+      },{
         "title": "Silence on tourne! 🎬",
         "excerpt":"Vous trouverez ici le développement du court métrage présentement en tournage. Silence on tourne! Je suis présentement en tournage depuis presque 1 mois avec mon ami et patineur de vitesse Antoine Gélinas-Beaulieu. Le but du tournage c’est d’avoir un vidéo qui me représente et qui pourra être utilisé pour participer...","categories": [],
         "tags": [],
