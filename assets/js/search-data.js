@@ -20,7 +20,7 @@ var store = [{
         "url": "/updates/nouvelle-maj/"
       },{
         "title": "Start of the 2022-2023 season!",
-        "excerpt":"(en) After a month off I am finally back in training for the 2022-2023 season! Welcome Back! Coming off a strong end of the season in 2021-2022, I couldn’t wait to go back to training and push myself again. Last season was very odd and I had to overcome a...","categories": [],
+        "excerpt":"After a month off I am finally back in training for the 2022-2023 season! Welcome Back! Coming off a strong end of the season in 2021-2022, I couldn’t wait to go back to training and push myself again. Last season was very odd and I had to overcome a lot...","categories": [],
         "tags": [],
         "url": "/updates/new-season/"
       },{
@@ -28,6 +28,11 @@ var store = [{
         "excerpt":"Après un mois de repos je suis enfin de retour à l’entrainement pour la saison 2022-2023! De retour! Après une excellente fin de saison en 2021-2022, je ne me pouvais plus! J’avais hâte de retourner à l’entrainement et de me pousser à nouveau. La dernière saison a été très bizarre,...","categories": [],
         "tags": [],
         "url": "/updates/nouvelle-saison/"
+      },{
+        "title": "New apartment and new updates",
+        "excerpt":"After 2 months, I am back on my website with some exciting news! I didn’t have much time to update this website but I am now back and ready to roll out more updates. Training So far this year we have had 3 training cycles completed. Each training cycle consist...","categories": [],
+        "tags": [],
+        "url": "/updates/new-home/"
       },{
         "title": "Website under construction 🚧",
         "excerpt":"Here you will find the development process of this website and what I am trying to make out of it. Why a website ? I have decided to create a website for myself as a way to promote what I am doing in sports and gather more attention towards my...","categories": [],
