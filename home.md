@@ -8,6 +8,8 @@ show_excerpts: true
 
 >{% t home.find %}
 
+<rssapp-wall id="QkuMTmCKq8ABYHY9"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script><br/><br/><br/><br/><br/><br/>
+
 ---
 # {% t home.upcoming %}
 

@@ -8,8 +8,6 @@ image:
   thumbnail: /images/new-season.JPG
 ---
 
-(en)
-
 After a month off I am finally back in training for the 2022-2023 season!
 
 ---
