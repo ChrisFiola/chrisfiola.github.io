@@ -4,8 +4,8 @@ excerpt: "A lot of exciting news"
 language: en
 date: 26-07-2022
 image:
-  path: 
-  thumbnail: 
+  path: /images/back.jpg
+  thumbnail: /images/back.jpg
 ---
 
 After 2 months, I am back on my website with some exciting news! 
