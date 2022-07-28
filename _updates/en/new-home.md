@@ -1,6 +1,6 @@
 ---
-title: "New apartment and new updates"
-excerpt: "A lot of exciting news"
+title: "New apartment!"
+excerpt: "Back after 2 months with new updates!"
 language: en
 date: 26-07-2022
 image:
@@ -37,7 +37,7 @@ One of my favorite day of training in the week is the Sprint training outside.
 ---
 # Moving! 
 
-On the 1st of July my girlfriend and I moved into a bigger apartment closer to the Centre de Glaces. We are just starting to enjoy it and getting settled in! 
+On the 1st of July my girlfriend and I moved into a bigger apartment closer to the Centre de Glaces Intant Assurances. We are just starting to enjoy it and getting settled in! 
 
 I had been staying in the same apartment complex for almost 8 years... That's more than a third of my life and 2 Olympic cycles!! 
 
