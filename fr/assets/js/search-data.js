@@ -29,10 +29,15 @@ var store = [{
         "tags": [],
         "url": "/updates/nouvelle-saison/"
       },{
-        "title": "New apartment and new updates",
+        "title": "New apartment!",
         "excerpt":"After 2 months, I am back on my website with some exciting news! I didn’t have much time to update this website but I am now back and ready to roll out more updates. Training So far this year we have had 3 training cycles completed. Each training cycle consist...","categories": [],
         "tags": [],
         "url": "/updates/new-home/"
+      },{
+        "title": "Nouvel Appartement!",
+        "excerpt":"Après 2 mois sans nouvelle je suis enfin de retour sur mon site internet avec d’excellentes nouvelles! Je n’ai pas eu beaucoup de temps pour mettre à jour mon site web mais je suis maintenant de retour, prêt à vous fournir pleins de bonnes nouvelles. Entrainement Jusqu’à maintenant cette année...","categories": [],
+        "tags": [],
+        "url": "/updates/nouvelle-maison/"
       },{
         "title": "Website under construction 🚧",
         "excerpt":"Here you will find the development process of this website and what I am trying to make out of it. Why a website ? I have decided to create a website for myself as a way to promote what I am doing in sports and gather more attention towards my...","categories": [],
