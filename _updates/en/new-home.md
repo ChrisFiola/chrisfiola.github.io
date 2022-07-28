@@ -24,25 +24,24 @@ So far this year we have had 3 training cycles completed. Each training cycle co
 > #### - Week #3
 > The third week of the cycle is the hardest. You are tired from the previous 2 weeks of training and the training volume is much higher. We usually have more sets to do in the weight room, more skating and more cycling. The encouraging thing about the third week is that once it's done we have a resting week! 
 
-The second training cycle was a struggle for me because of a back injury that kept coming back. Thankfully this is now fixed and I am feelinig healthy and strong. 
+The second training cycle was a struggle for me because of a back injury that kept coming back. Thankfully this is now fixed and I am feeling healthy and strong. 
 
 
 ### Sprint Training
 
 One of my favorite day of training in the week is the Sprint training outside. 
 
-Here is what it looks like
 
 ![Sprint Training](/images/sprints.jpg)  
 
 ---
 # Moving! 
 
-On the 1st of July me and my girlfriend moved into a bigger apartment closer to the Centre de Glaces. We are just starting to enjoy it and getting settled in! 
+On the 1st of July my girlfriend and I moved into a bigger apartment closer to the Centre de Glaces. We are just starting to enjoy it and getting settled in! 
 
 I had been staying in the same apartment complex for almost 8 years... That's more than a third of my life and 2 Olympic cycles!! 
 
-On the 2nd of July I also celebrated 5 years of love with my girlfriend with a little diner accompanied by the cat.
+On the 2nd of July we also celebrated 5 years of love with a little diner accompanied by our cat Kiri.
 
 ![Diner](/images/diner.JPG) 
 
@@ -60,7 +59,7 @@ I will reveal it in another update where I will announce my new sponsor for the 
 ---
 # News Article
 
-I have been contacted today by Journal Metro for a news article about the bursary I received in May from Beneva and FAEQ. Once the article is out I will share it on my homepage with a new section showing all the recent articles about me.
+Great new! I have been contacted today by Journal Metro for a news article about the bursary I received in May from Beneva and FAEQ. Once the article is out I will share it on my homepage with a new section showing all the recent articles about me.
 
 Be on the lookout for this new update!
 
