@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-get-json"
   gem "jekyll-multiple-languages-plugin"
+  gem "jekyll-linkpreview"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do

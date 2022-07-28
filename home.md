@@ -6,7 +6,19 @@ show_excerpts: true
 ---
 # {% t home.enjoy %}
 
->{% t home.find %}
+---
+{% linkpreview "https://www.journaldequebec.com/2022/04/19/mission-accomplie-pour-la-rue-et-fiola" %}
+---
+{% linkpreview "https://www.journaldequebec.com/2020/10/15/fiola-patine-apres-le-temps-perdu" %}
+---
+{% linkpreview "https://sportcom.ca/les-quebecois-medailles-de-bronze-au-sprint-par-equipe/" %}
+---
+{% linkpreview "https://sportcom.ca/dubreuil-fiola-et-de-haitre-couronnes-dor/" %}
+---
+{% linkpreview "https://sportcom.ca/fiola-et-boisvert-lacroix-se-demarquent-au-500-m/" %}
+---
+{% linkpreview "https://ici.radio-canada.ca/sports/videos/1-7643704/christopher-fiola-victime-voleurs" %}
+
 
 ---
 # {% t home.upcoming %}

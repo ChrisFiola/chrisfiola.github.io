@@ -91,6 +91,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-multiple-languages-plugin
+  - jekyll-linkpreview
 
 #JSON Fetch
 jekyll_get_json:

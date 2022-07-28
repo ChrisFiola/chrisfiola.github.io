@@ -39,9 +39,9 @@ global:
   french: "French"
   english: "English"
 home:
-  enjoy: "Enjoy your stay!"
+  enjoy: "News"
   upcoming: "Upcoming Events"
   record: "Personal Records"
   results: "Results"
   from: "from"
-  find: "Click [here](https://chrisfiola.github.io/updates/new-update/) to find out what this is all about."
+  find: "Here are articles about me."
