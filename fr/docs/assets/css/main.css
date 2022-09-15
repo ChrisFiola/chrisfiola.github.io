@@ -873,7 +873,7 @@ html { scroll-behavior: smooth; height: 100%; }
 
 .jekyll-linkpreview-image { position: absolute; top: 0px; right: 0; }
 
-.jekyll-linkpreview-image img { width: 100px; height: 100px; border-radius: 10px; }
+.jekyll-linkpreview-image img { width: 110px; max-width: 100%; }
 
 .jekyll-linkpreview-body { margin-right: 110px; }
 
