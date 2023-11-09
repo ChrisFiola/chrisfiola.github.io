@@ -6,7 +6,7 @@ gem "kramdown-parser-gfm"
 gem "webrick"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.17"
   gem "jekyll-paginate"
   gem "jekyll-redirect-from"
   gem "jekyll-get-json"

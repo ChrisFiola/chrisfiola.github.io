@@ -70,9 +70,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 3.0, < 5.0)
       safe_yaml (~> 1.0)
-      terminal-table (>= 1.8, < 4.0)
-      webrick (~> 1.7)
-    jekyll-feed (0.16.0)
+      terminal-table (~> 2.0)
+    jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-get-json (1.0.0)
       deep_merge (~> 1.2)
@@ -133,6 +132,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.13.8-x86_64-linux)
       racc (~> 1.4)
+    nokogiri (1.13.8-x86_64-linux)
+      racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -171,7 +172,6 @@ GEM
     wdm (0.1.1)
     webrick (1.8.1)
 
-
 PLATFORMS
   x64-mingw-ucrt
   x86_64-darwin-19
@@ -180,7 +180,7 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll
-  jekyll-feed (~> 0.12)
+  jekyll-feed (~> 0.17)
   jekyll-get-json
   jekyll-linkpreview
   jekyll-multiple-languages-plugin
