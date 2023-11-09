@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: chrisfiola.ca
+Token: b131d767b5e0907a8bb86925dc128b5b23dd402d796fd2631ae7b06f1fa95d63
