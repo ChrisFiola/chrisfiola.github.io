@@ -13,8 +13,8 @@ jobs:
         
       - name: Install dependencies and build
         run: |
-          bundle update jekyll
           sudo gem install jekyll bundler
+          bundle update jekyll
           export JEKYLL_ENV=production
           bundle install
           bundle exec jekyll build
