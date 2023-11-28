@@ -1,26 +1,26 @@
 ---
 title: "2022-2023"
-excerpt: "You will find the best results of the season on this page"
+excerpt: "Vous allez retrouver les meilleurs résultats de la saison sur cette page"
 layout: post
-language: en
+language: fr
 date: 28-11-2023
 image: 
   path: /images/hof2223.jpg
-  thumbnail: /images/hof2122.jpg
+  thumbnail: /images/hof2223.jpg
   caption: "Photo from [Rafal Oleksiewicz/Speed Skating Canada](https://speedskatingcanada.photoshelter.com/galleries/C0000l88mbS1g7eE/G0000TOymDp8QXLc/I0000J2WziKFI.0o/ISU-World-Speed-Skating-Championships-Heerenveen-2023)"
 ---
 
-You will find the best results of the season on this page.
+Vous allez retrouver les meilleurs résultats de la saison sur cette page.
 
 ---
-# Best 500m of the season 🥇
+# Meilleur 500m de la saison 🥇
 
 <div class="container">
 <iframe src="https://www.youtube.com/live/tXnFciwyifk?si=hKQMXaBfipNDu0IC&t=5601" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div> <br />
 
-# Best 1000m of the season 🥇
+# Meilleur 1000m de la saison 🥇
 
 <div class="container">
 <iframe src="https://www.youtube.com/live/_w8OElU61Vc?si=0GnWyFHq260ZBsLK&t=5687" 
@@ -45,7 +45,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
   <title>Season Bests</title>
 </head>
 <body>
-  <h1>Season Bests</h1>
+  <h1>Records de la saison</h1>
   <h4>Christopher Fiola (CAN)</h4>
   <table>
     {% for result in site.data.results22.seasons[0].records %}
@@ -57,5 +57,5 @@ frameborder="0" allowfullscreen class="video"></iframe>
     </tr>
     {% endfor %}
   </table>
-  <p><a href="https://speedskatingresults.com/index.php?p=17&s=46453"> Results </a> from <a href="https://speedskatingresults.com">SpeedskatingResults.com</a></p>
+  <p><a href="https://speedskatingresults.com/index.php?p=17&s=46453"> Résultats </a> de <a href="https://speedskatingresults.com">SpeedskatingResults.com</a></p>
 </body>
