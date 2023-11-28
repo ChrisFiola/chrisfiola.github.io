@@ -99,6 +99,8 @@ jekyll_get_json:
     json: 'https://speedskatingresults.com/api/json/season_bests?skater=46453&start=2021'
   - data: results
     json: 'https://speedskatingresults.com/api/json/personal_records?skater=46453'
+  - data: results22
+    json: 'https://speedskatingresults.com/api/json/season_bests?skater=46453&start=2022'
 
 # Collections
 collections:
