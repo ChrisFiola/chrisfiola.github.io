@@ -4,7 +4,6 @@ gem "jekyll"
 gem "jekyll-theme-so-simple"
 gem "kramdown-parser-gfm"
 gem "webrick"
-gem "google-protobuf"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
