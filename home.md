@@ -33,6 +33,28 @@ show_excerpts: true
   <div class="jekyll-linkpreview-wrapper-inner">
     <div class="jekyll-linkpreview-content">
 <div class="jekyll-linkpreview-image">
+  <a href="https://www.journaldequebec.com/2022/11/30/un-podium-dans-la-mire-de-christopher-fiola" target="_blank">
+    <img src="https://m1.quebecormedia.com/emp/emp/f0a850a0-5e06-11ec-9839-4be824ab8fdb_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1200&h=935&width=1500"/>
+  </a>
+</div>
+
+      <div class="jekyll-linkpreview-body">
+        <h2 class="jekyll-linkpreview-title">
+          <a href="https://www.journaldequebec.com/2022/11/30/un-podium-dans-la-mire-de-christopher-fiola">Un podium dans la mire de Christopher Fiola</a>
+        </h2>
+      </div>
+    </div>
+    <div class="jekyll-linkpreview-footer">
+      <a href="//www.journaldequebec.com" target="_blank">www.journaldequebec.com</a>
+    </div>
+  </div>
+</div>
+
+<hr />
+<div class="jekyll-linkpreview-wrapper">
+  <div class="jekyll-linkpreview-wrapper-inner">
+    <div class="jekyll-linkpreview-content">
+<div class="jekyll-linkpreview-image">
   <a href="https://www.journaldequebec.com/2022/04/19/mission-accomplie-pour-la-rue-et-fiola" target="_blank">
     <img src="https://m1.quebecormedia.com/emp/emp/66291257_4220199ae0f902-f686-405f-a4c3-40ed682d3cc7_ORIGINAL.jpg"/>
   </a>
@@ -63,28 +85,6 @@ show_excerpts: true
       <div class="jekyll-linkpreview-body">
         <h2 class="jekyll-linkpreview-title">
           <a href="https://www.journaldequebec.com/2020/10/15/fiola-patine-apres-le-temps-perdu" target="_blank">Fiola patine après le temps perdu</a>
-        </h2>
-      </div>
-    </div>
-    <div class="jekyll-linkpreview-footer">
-      <a href="//www.journaldequebec.com" target="_blank">www.journaldequebec.com</a>
-    </div>
-  </div>
-</div>
-
-<hr />
-<div class="jekyll-linkpreview-wrapper">
-  <div class="jekyll-linkpreview-wrapper-inner">
-    <div class="jekyll-linkpreview-content">
-<div class="jekyll-linkpreview-image">
-  <a href="https://www.journaldequebec.com/2022/11/30/un-podium-dans-la-mire-de-christopher-fiola" target="_blank">
-    <img src="https://m1.quebecormedia.com/emp/emp/f0a850a0-5e06-11ec-9839-4be824ab8fdb_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1200&h=935&width=1500"/>
-  </a>
-</div>
-
-      <div class="jekyll-linkpreview-body">
-        <h2 class="jekyll-linkpreview-title">
-          <a href="https://www.journaldequebec.com/2022/11/30/un-podium-dans-la-mire-de-christopher-fiola">Un podium dans la mire de Christopher Fiola</a>
         </h2>
       </div>
     </div>
