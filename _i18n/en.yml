@@ -18,6 +18,10 @@ hof:
     title: "2021-2022"
     text: "You will find the best results of the season on this page. (en)"
     perma: /hof/hof2122/
+  hof2223:
+    title: "2022-2023"
+    text: "You will find the best results of the season on this page. (en)"
+    perma: /hof/hof2223/
 updates:
   new-season:
     title: "Start of the 2022-2023 season!"
