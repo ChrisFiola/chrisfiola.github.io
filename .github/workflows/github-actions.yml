@@ -15,8 +15,8 @@ jobs:
         run: |
           sudo gem install jekyll bundler
           bundle update jekyll
-          export JEKYLL_ENV=production
           bundle install
+          export JEKYLL_ENV=production
           bundle exec jekyll build
           echo "🍏 This job's status is ${{ job.status }}."
           
