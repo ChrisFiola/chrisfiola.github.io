@@ -16,14 +16,14 @@ Vous allez retrouver les meilleurs résultats de la saison sur cette page.
 # Meilleur 500m de la saison 🥇
 
 <div class="container">
-<iframe src="https://www.youtube.com/live/tXnFciwyifk?si=hKQMXaBfipNDu0IC&t=5601" 
+<iframe src="https://www.youtube.com/embed/tXnFciwyifk?si=4QGGg735yU8HSp9-&amp;start=5601" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div> <br />
 
 # Meilleur 1000m de la saison 🥇
 
 <div class="container">
-<iframe src="https://www.youtube.com/live/_w8OElU61Vc?si=0GnWyFHq260ZBsLK&t=5687" 
+<iframe src="https://www.youtube.com/embed/_w8OElU61Vc?si=ywIQZicPChPCWCpy&amp;start=5687" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div> <br />
 
