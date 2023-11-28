@@ -9,6 +9,16 @@ var store = [{
         "tags": [],
         "url": "/hof/hof2122-fr/"
       },{
+        "title": "2022-2023",
+        "excerpt":"You will find the best results of the season on this page. Best 500m of the season 🥇 Best 1000m of the season 🥇 Season Bests Season Bests Christopher Fiola (CAN) 100 9,82 Leeuwarden (NED) 2023-03-08 500 34,67 Calgary (CAN) 2022-12-10 1000 1.09,44 Quebec City (CAN) 2022-09-25 1500 1.52,26 Quebec...","categories": [],
+        "tags": [],
+        "url": "/hof/hof2223/"
+      },{
+        "title": "2022-2023",
+        "excerpt":"Vous allez retrouver les meilleurs résultats de la saison sur cette page. Meilleur 500m de la saison 🥇 Meilleur 1000m de la saison 🥇 Season Bests Records de la saison Christopher Fiola (CAN) 100 9,82 Leeuwarden (NED) 2023-03-08 500 34,67 Calgary (CAN) 2022-12-10 1000 1.09,44 Quebec City (CAN) 2022-09-25 1500...","categories": [],
+        "tags": [],
+        "url": "/hof/hof2223-fr/"
+      },{
         "title": "Welcome to my first post and to my new website",
         "excerpt":"So I have decided to create a website about myself. Hopefully this will help promote me and eventually gather more attention into what I’m working towards. The ultimate goal is Milan Cortina 2026 and we will see after… Site’s Content 1. Homepage: This is where you will find general information...","categories": [],
         "tags": [],
