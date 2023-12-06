@@ -23,7 +23,7 @@ default_locale_in_subfolder: false
 exclude_from_localizations: ["assets"]
 
 remote_theme: mmistakes/so-simple-theme@3.2.0
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/default.css"
 locale: en
 title: "Christopher Fiola"
 description: "CANADIAN SPEED SKATING SPRINT SPECIALIST AIMING FOR MILANO CORTINA 2026"
