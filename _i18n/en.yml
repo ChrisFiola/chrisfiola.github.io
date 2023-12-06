@@ -3,6 +3,7 @@ titles:
   hof: "Hall Of Fame"
   wup: "What's Up?"
   wip: "Work in progress"
+  cyber: "CyberSecurity"
   languages: "en/fr"
   homepage: ""
   partenaires: "Sponsors"
@@ -13,6 +14,7 @@ urls:
   hof: /hof/
   wup: /updates/
   wip: /wip/
+  cyber: /cyber/
 hof:
   hof2122:
     title: "2021-2022"
@@ -36,6 +38,11 @@ wip:
     title: "Website under construction 🚧"
     text: "Here you will find the development process of this website and what I am trying to make out of it."
     url: /wip/new-website/
+cyber:
+  nothing-here:
+    title: "Nothing here yet..."
+    text: "Here you will find my latest thoughts and projects relating to CyberSecurity."
+    url: /cyber/nothing-here/
 generic:
   accessibility:
     lang-menu: "Language switcher"
