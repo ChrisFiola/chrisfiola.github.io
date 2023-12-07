@@ -52,6 +52,7 @@
     text-decoration: none;
     border: 1px solid;
     border-radius: $border-radius;
+    font-weight: bold;
   }
 
   @include breakpoint($medium) {
