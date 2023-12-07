@@ -81,6 +81,7 @@ blockquote {
     border-color: $nav-background-color;
 
     &:hover {
+      color: crimson;
       border-color: $nav-color;
     }
   }
