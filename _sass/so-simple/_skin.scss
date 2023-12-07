@@ -3,7 +3,7 @@
    ========================================================================== */
 
 body {
-  color: #425564;
+  color: $alt-text-color;
   background: $background-color;
   border-top-color: $nav-background-color;
 }
@@ -27,7 +27,7 @@ blockquote {
 
 .site-title {
   a {
-    color: #425564;
+    color: $alt-text-color;
     &:hover {
       color: crimson;
     }
