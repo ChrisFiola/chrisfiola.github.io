@@ -50,8 +50,8 @@
    ========================================================================== */
 body {
   color: #425564;
-  background: #252a34;
-  border-top-color: #1a1d24;
+  background: #1a1d24;
+  border-top-color: #121419;
 }
 
 a {
@@ -62,7 +62,7 @@ a:hover {
 }
 
 blockquote {
-  background-color: #213741;
+  background-color: #172b33;
   border-left-color: #00adb5;
 }
 
@@ -105,12 +105,12 @@ blockquote {
 
 .site-nav ul {
   color: #aeaeae;
-  background-color: #1a1d24;
+  background-color: #121419;
   font-weight: bold;
 }
 .site-nav a {
   color: #aeaeae;
-  border-color: #1a1d24;
+  border-color: #121419;
 }
 .site-nav a:hover {
   border-color: #aeaeae;
@@ -125,7 +125,7 @@ blockquote {
 }
 
 .site-logo-img {
-  border-color: #252a34;
+  border-color: #1a1d24;
 }
 
 .toc-wrapper {
@@ -136,7 +136,7 @@ blockquote {
   background-color: #263238;
 }
 .toc-wrapper li ol {
-  background-color: #252a34;
+  background-color: #1a1d24;
 }
 .toc-wrapper li a:hover, .toc-wrapper li a:focus {
   border-bottom: 1px dotted #fbfbfb;
@@ -147,7 +147,7 @@ blockquote {
 }
 
 #menu-toggle {
-  background-color: #1a1d24;
+  background-color: #121419;
 }
 
 #markdown-toc {
