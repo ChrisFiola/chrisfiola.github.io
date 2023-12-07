@@ -1378,6 +1378,7 @@ th {
   font-weight: bold;
   font-style: italic;
   letter-spacing: -2px;
+  text-align: center;
 }
 .page-title {
   font-size: 48px;
