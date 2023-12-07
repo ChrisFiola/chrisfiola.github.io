@@ -1,6 +1,6 @@
 ---
 title: titles.cyber
-layout: collection
+layout: collection-cyber
 sort_by: date
 sort_order: reverse
 permalink: /cyber/
