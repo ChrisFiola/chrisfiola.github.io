@@ -116,6 +116,7 @@ blockquote {
   border-color: #121419;
 }
 .site-nav a:hover {
+  color: crimson;
   border-color: #aeaeae;
 }
 
