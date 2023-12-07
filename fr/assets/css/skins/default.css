@@ -73,6 +73,9 @@ blockquote {
 .site-title a {
   color: #425564;
 }
+.site-title a:hover {
+  color: crimson;
+}
 
 .copyright {
   color: #404040;
