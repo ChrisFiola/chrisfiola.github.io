@@ -28,6 +28,9 @@ blockquote {
 .site-title {
   a {
     color: #425564;
+    &:hover: {
+      color: crimson;
+    }
   }
 }
 
