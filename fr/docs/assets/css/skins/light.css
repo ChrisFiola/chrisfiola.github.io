@@ -50,7 +50,7 @@
    Base elements
    ========================================================================== */
 body {
-  color: #425564;
+  color: white;
   background: #fff;
   border-top-color: #626262;
 }
@@ -71,7 +71,7 @@ blockquote {
    Site-wide
    ========================================================================== */
 .site-title a {
-  color: #425564;
+  color: white;
 }
 .site-title a:hover {
   color: crimson;

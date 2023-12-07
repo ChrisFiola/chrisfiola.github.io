@@ -49,9 +49,9 @@
    Base elements
    ========================================================================== */
 body {
-  color: #425564;
-  background: #1a1d24;
-  border-top-color: #121419;
+  color: white;
+  background: black;
+  border-top-color: black;
 }
 
 a {
@@ -62,7 +62,7 @@ a:hover {
 }
 
 blockquote {
-  background-color: #172b33;
+  background-color: #001112;
   border-left-color: #00adb5;
 }
 
@@ -70,7 +70,7 @@ blockquote {
    Site-wide
    ========================================================================== */
 .site-title a {
-  color: #425564;
+  color: white;
 }
 .site-title a:hover {
   color: crimson;
@@ -92,14 +92,14 @@ blockquote {
 }
 
 .taxonomy-index a {
-  border-bottom-color: #fbfbfb;
+  border-bottom-color: white;
 }
 .taxonomy-index a:hover {
   color: #00adb5;
 }
 
 .taxonomy-section:not(:last-child) {
-  border-bottom-color: #fbfbfb;
+  border-bottom-color: white;
 }
 
 .back-to-top {
@@ -108,41 +108,41 @@ blockquote {
 
 .site-nav ul {
   color: #aeaeae;
-  background-color: #121419;
+  background-color: black;
   font-weight: bold;
 }
 .site-nav a {
   color: #aeaeae;
-  border-color: #121419;
+  border-color: black;
 }
 .site-nav a:hover {
   color: crimson;
 }
 
 .site-footer {
-  border-top-color: #fbfbfb;
+  border-top-color: white;
 }
 
 .footnotes {
-  border-top-color: #fbfbfb;
+  border-top-color: white;
 }
 
 .site-logo-img {
-  border-color: #1a1d24;
+  border-color: black;
 }
 
 .toc-wrapper {
-  border-color: #fcfcfc;
+  border-color: white;
 }
 .toc-wrapper h2 {
   color: #eeffff;
   background-color: #263238;
 }
 .toc-wrapper li ol {
-  background-color: #1a1d24;
+  background-color: black;
 }
 .toc-wrapper li a:hover, .toc-wrapper li a:focus {
-  border-bottom: 1px dotted #fbfbfb;
+  border-bottom: 1px dotted white;
 }
 
 #menu-toggle {
@@ -150,7 +150,7 @@ blockquote {
 }
 
 #menu-toggle {
-  background-color: #121419;
+  background-color: black;
 }
 
 #markdown-toc {
@@ -158,19 +158,19 @@ blockquote {
 }
 
 .pagination li a {
-  color: #f3f3f3;
-  border-color: #fbfbfb;
+  color: white;
+  border-color: white;
 }
 .pagination li a.current, .pagination li a.current.disabled {
-  background-color: #f3f3f3;
+  background-color: white;
   color: #000;
 }
 .pagination li a.disabled {
-  color: #fbfbfb;
+  color: white;
 }
 
 .search-input {
-  border-color: #fbfbfb;
+  border-color: white;
 }
 
 /* ==========================================================================
@@ -178,7 +178,7 @@ blockquote {
    ========================================================================== */
 .page-previous,
 .page-next {
-  color: #eaeaea;
+  color: white;
 }
 
 /* ==========================================================================
@@ -193,7 +193,7 @@ blockquote {
    ========================================================================== */
 th,
 td {
-  border-bottom-color: #fbfbfb;
+  border-bottom-color: white;
 }
 
 /* ==========================================================================
@@ -472,7 +472,7 @@ td {
 .screen-reader-text,
 .screen-reader-text span,
 .screen-reader-shortcut {
-  background-color: #eaeaea;
+  background-color: white;
 }
 
 /* ==========================================================================
@@ -508,7 +508,7 @@ td {
 .btn--inverse {
   background-color: #fff;
   color: #000;
-  border: 1px solid #fbfbfb;
+  border: 1px solid white;
 }
 .btn--inverse:hover {
   background-color: #cccccc;
