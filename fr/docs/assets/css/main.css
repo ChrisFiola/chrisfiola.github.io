@@ -1050,6 +1050,7 @@ th {
   text-decoration: none;
   border: 1px solid;
   border-radius: 0.25rem;
+  font-weight: bold;
 }
 @media (min-width: 48em) {
   .site-nav {
