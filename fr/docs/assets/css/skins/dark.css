@@ -106,6 +106,7 @@ blockquote {
 .site-nav ul {
   color: #aeaeae;
   background-color: #1a1d24;
+  font-weight: bold;
 }
 .site-nav a {
   color: #aeaeae;
