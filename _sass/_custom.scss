@@ -29,6 +29,9 @@ body {
 
 .navbar {
   padding: 0;
+  &:hover {
+    color: crimson;
+  }
 }
 
 .nav-item {
