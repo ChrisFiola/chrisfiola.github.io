@@ -1724,22 +1724,38 @@ th {
    ========================================================================== */
 .layout--home .page-wrapper,
 .layout--posts .page-wrapper,
+.layout--posts-cyber .page-wrapper,
 .layout--categories .page-wrapper,
 .layout--tags .page-wrapper,
 .layout--category .page-wrapper,
 .layout--tag .page-wrapper,
 .layout--collection .page-wrapper,
+.layout--collection-cyber .page-wrapper,
 .layout--search .page-wrapper {
   max-width: 768px;
 }
 .layout--home .page-title,
 .layout--posts .page-title,
+.layout--posts-cyber .page-title,
 .layout--categories .page-title,
 .layout--tags .page-title,
 .layout--category .page-title,
 .layout--tag .page-title,
 .layout--collection .page-title,
+.layout--collection-cyber .page-title,
 .layout--search .page-title {
+  text-align: center;
+}
+.layout--home .page-title-cyber,
+.layout--posts .page-title-cyber,
+.layout--posts-cyber .page-title-cyber,
+.layout--categories .page-title-cyber,
+.layout--tags .page-title-cyber,
+.layout--category .page-title-cyber,
+.layout--tag .page-title-cyber,
+.layout--collection .page-title-cyber,
+.layout--collection-cyber .page-title-cyber,
+.layout--search .page-title-cyber {
   text-align: center;
 }
 
