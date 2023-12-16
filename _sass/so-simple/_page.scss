@@ -9,6 +9,17 @@
   max-width: $main-sidebar-max-width;
 }
 
+.page-title-cyber {
+  @include fluid-type($min-vw, $max-vw, 48px, 60px);
+  margin-bottom: 0.5em;
+  font-family: "incosolata", monospace;
+  letter-spacing: 1.3rem;
+  text-align: center;
+  text-transform: lowercase;
+  color: #39FF14;
+  text-shadow: 0 0 5px #C8C8C8;
+}
+
 .page-title {
   @include fluid-type($min-vw, $max-vw, 48px, 60px);
   margin-bottom: 0.5em;
