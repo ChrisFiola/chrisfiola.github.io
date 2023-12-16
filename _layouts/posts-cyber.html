@@ -18,7 +18,7 @@ layout: page-cyber
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy-section">
-    <h2 class="taxonomy-title">{{ year.name }}</h2>
+    <h2-cyber class="taxonomy-title">{{ year.name }}</h2-cyber>
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
       {% for entry in year.items %}
         {% include entry.html %}
