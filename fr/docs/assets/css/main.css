@@ -1917,8 +1917,6 @@ th {
   margin-bottom: 0;
   font-family: "Chathura", serif;
   font-weight: bold;
-  font-style: italic;
-  letter-spacing: -1px;
   word-wrap: break-word; /* break long words that could overflow */
 }
 .entry-title a {
@@ -1937,7 +1935,6 @@ th {
   margin-bottom: 0;
   font-family: "Chathura", serif;
   font-weight: bold;
-  letter-spacing: -1px;
   word-wrap: break-word; /* break long words that could overflow */
   text-transform: lowercase;
   color: #39FF14;
