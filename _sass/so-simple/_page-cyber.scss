@@ -9,9 +9,8 @@
   max-width: $main-sidebar-max-width;
 }
 
-.page-title-cyber {
+.page-title {
   @include fluid-type($min-vw, $max-vw, 48px, 60px);
-  page-title-cyber {
   margin-bottom: 0.5em;
   font-family: "incosolata", monospace;
   letter-spacing: 1.3rem;

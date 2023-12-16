@@ -13,9 +13,9 @@ layout: default-cyber
           {% assign title = page.title %}
         {% endif %}
         {% if page.link %}
-          <h1-cyber id="page-title" class="page-title-cyber"><a href="{% t{{ page.link }} %}">{% t{{ title }} %} <span class="link-arrow">&rarr;</span></a></h1-cyber>
+          <h1 id="page-title" class="page-title"><a href="{% t{{ page.link }} %}">{% t{{ title }} %} <span class="link-arrow">&rarr;</span></a></h1>
         {% else %}
-          <h1-cyber id="page-title" class="page-title-cyber">{% t{{ title }} %}</h1-cyber>
+          <h1 id="page-title" class="page-title">{% t{{ title }} %}</h1>
         {% endif %}
       </header>
       <div class="page-content">
