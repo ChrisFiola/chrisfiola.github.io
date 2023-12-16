@@ -835,6 +835,9 @@ h6 {
 }
 
 h1 {
+  text-align: center;
+}
+h1 {
   font-size: 33.1776px;
 }
 @media screen and (min-width: 320px) {
@@ -844,6 +847,23 @@ h1 {
 }
 @media screen and (min-width: 1280px) {
   h1 {
+    font-size: 61.4656px;
+  }
+}
+
+h1-cyber {
+  text-align: center;
+}
+h1-cyber {
+  font-size: 33.1776px;
+}
+@media screen and (min-width: 320px) {
+  h1-cyber {
+    font-size: calc(33.1776px + 28.288 * (100vw - 320px) / 960);
+  }
+}
+@media screen and (min-width: 1280px) {
+  h1-cyber {
     font-size: 61.4656px;
   }
 }
