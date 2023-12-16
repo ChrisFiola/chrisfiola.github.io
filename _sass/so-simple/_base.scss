@@ -80,6 +80,55 @@ h6 {
   @include fluid-type($min-vw, $max-vw, $h6-min, $h6-max);
 }
 
+//Cyber headers
+h1-cyber {
+  font-family:"incosolata", monospace;
+  text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
+  margin-bottom: 0.5em;
+  letter-spacing: 1.3rem;
+  text-align: center;
+  text-transform: lowercase;
+  color: #39FF14;
+  text-shadow: 0 0 5px #C8C8C8;
+}
+h2-cyber,
+h3-cyber,
+h4-cyber,
+h5-cyber,
+h6-cyber {
+  font-family:"incosolata", monospace;
+  text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
+  margin-bottom: 0.5em;
+  letter-spacing: 1.3rem;
+  text-transform: lowercase;
+  color: #39FF14;
+  text-shadow: 0 0 5px #C8C8C8;
+}
+
+h1-cyber {
+  @include fluid-type($min-vw, $max-vw, $h1-min, $h1-max);
+}
+
+h2-cyber {
+  @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
+}
+
+h3-cyber {
+  @include fluid-type($min-vw, $max-vw, $h3-min, $h3-max);
+}
+
+h4-cyber {
+  @include fluid-type($min-vw, $max-vw, $h4-min, $h4-max);
+}
+
+h5-cyber {
+  @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
+}
+
+h6-cyber {
+  @include fluid-type($min-vw, $max-vw, $h6-min, $h6-max);
+}
+
 dt {
   font-weight: bold;
 
