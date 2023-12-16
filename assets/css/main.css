@@ -1917,7 +1917,7 @@ th {
 }
 
 .entry-title {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
   font-family: "Chathura", serif;
   font-weight: bold;
   font-style: italic;
@@ -2014,7 +2014,6 @@ th {
   -ms-flex-order: 2;
   order: 2;
   margin-bottom: 1em;
-  font-size: 0.75rem;
 }
 .entries-list .more-link {
   margin-top: -1em;
