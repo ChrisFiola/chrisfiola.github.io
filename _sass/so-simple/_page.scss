@@ -204,17 +204,23 @@
 
 .layout--home,
 .layout--posts,
+.layout--posts-cyber,
 .layout--categories,
 .layout--tags,
 .layout--category,
 .layout--tag,
 .layout--collection,
+.layout--collection-cyber,
 .layout--search {
   .page-wrapper {
     max-width: $main-max-width;
   }
 
   .page-title {
+    text-align: center;
+  }
+
+  .page-title-cyber {
     text-align: center;
   }
 }
