@@ -1511,6 +1511,29 @@ th {
   max-width: 1024px;
 }
 
+.page-title-cyber {
+  margin-bottom: 0.5em;
+  font-family: "incosolata", monospace;
+  letter-spacing: 1.3rem;
+  text-align: center;
+  text-transform: lowercase;
+  color: #39FF14;
+  text-shadow: 0 0 5px #C8C8C8;
+}
+.page-title-cyber {
+  font-size: 48px;
+}
+@media screen and (min-width: 320px) {
+  .page-title-cyber {
+    font-size: calc(48px + 12 * (100vw - 320px) / 960);
+  }
+}
+@media screen and (min-width: 1280px) {
+  .page-title-cyber {
+    font-size: 60px;
+  }
+}
+
 .page-title {
   margin-bottom: 0.5em;
   font-family: "Chathura", serif;
