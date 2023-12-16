@@ -1536,10 +1536,7 @@ th {
 
 .page-title {
   margin-bottom: 0.5em;
-  font-family: "Chathura", serif;
   font-weight: bold;
-  font-style: italic;
-  letter-spacing: -2px;
   text-align: center;
 }
 .page-title {
@@ -1936,25 +1933,6 @@ th {
   bottom: 0;
 }
 
-.entry-image {
-  -webkit-box-ordinal-group: 0;
-  -ms-flex-order: -1;
-  order: -1;
-  width: 100%;
-  margin-bottom: 0.5rem;
-}
-
-.entry-meta .entry-date,
-.entry-meta .read-time {
-  font-family: "Chathura", serif;
-  font-style: italic;
-  white-space: nowrap;
-}
-.entry-meta .read-time + .entry-date::before {
-  content: "•";
-  padding: 0 0.5em;
-}
-
 .entry-title-cyber {
   margin-bottom: 0;
   font-family: "Chathura", serif;
@@ -1994,12 +1972,6 @@ th {
 .entry-meta .read-time + .entry-date::before {
   content: "•";
   padding: 0 0.5em;
-}
-
-.entry-excerpt a,
-.u-bookmark-of {
-  position: relative;
-  z-index: 10;
 }
 
 /*
