@@ -26,7 +26,7 @@ remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/default.css"
 locale: en
 title: "Christopher Fiola"
-description: "CANADIAN SPEED SKATING SPRINT SPECIALIST AIMING FOR MILANO CORTINA 2026"
+description: "CANADIAN SPEED SKATING SPRINT SPECIALIST - MILANO CORTINA 2026"
 baseurl: "/"
 url: #"https://chrisfiola.github.io"
 logo: "/images/skating.jpg" #/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
