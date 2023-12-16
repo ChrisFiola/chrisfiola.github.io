@@ -16,7 +16,8 @@ html {
     text-shadow: 0 0 5px #C8C8C8;
 }
 
-.h1-cyber {
+.h1,
+h1-cyber {
   font-size: 48px;
   margin-bottom: 0.5em;
   font-family: "incosolata", monospace;
@@ -25,18 +26,20 @@ html {
   text-transform: lowercase;
   color: #39FF14;
   text-shadow: 0 0 5px #C8C8C8;
-  }
+}
 
-.h2-cyber {
+.h2,
+h2-cyber {
   font-size: 36px;
   font-family: "incosolata", monospace;
   text-align: left;
   text-transform: lowercase;
   color: #39FF14;
   text-shadow: 0 0 5px #C8C8C8;
-  }
+}
 
-.h3-cyber {
+.h3,
+h3-cyber {
   font-size: 24px;
   font-family: "incosolata", monospace;
   text-align: left;
@@ -45,7 +48,8 @@ html {
   text-shadow: 0 0 5px #C8C8C8;
 }
 
-.h4-cyber {
+.h4,
+h4-cyber {
   font-size: 20px;
   font-family: "incosolata", monospace;
   text-align: left;
@@ -54,7 +58,8 @@ html {
   text-shadow: 0 0 5px #C8C8C8;
 }
 
-.h5-cyber {
+.h5,
+h5-cyber {
   font-size: 16px;
   font-family: "incosolata", monospace;
   text-align: left;
@@ -63,7 +68,8 @@ html {
   text-shadow: 0 0 5px #C8C8C8;
 }
 
-.h6-cyber {
+.h6,
+h6-cyber {
   font-size: 14px;
   font-family: "incosolata", monospace;
   text-align: left;
