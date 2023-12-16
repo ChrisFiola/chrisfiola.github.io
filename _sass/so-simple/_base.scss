@@ -58,6 +58,12 @@ h6 {
 
 h1 {
   @include fluid-type($min-vw, $max-vw, $h1-min, $h1-max);
+  text-align: center
+}
+
+h1-cyber {
+  @include fluid-type($min-vw, $max-vw, $h1-min, $h1-max);
+  text-align: center
 }
 
 h2 {
