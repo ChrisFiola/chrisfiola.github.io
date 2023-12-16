@@ -918,6 +918,115 @@ h6 {
   }
 }
 
+h1-cyber {
+  font-family: "incosolata", monospace;
+  text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
+  margin-bottom: 0.5em;
+  letter-spacing: 1.3rem;
+  text-align: center;
+  text-transform: lowercase;
+  color: #39FF14;
+  text-shadow: 0 0 5px #C8C8C8;
+}
+
+h2-cyber,
+h3-cyber,
+h4-cyber,
+h5-cyber,
+h6-cyber {
+  font-family: "incosolata", monospace;
+  text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
+  margin-bottom: 0.5em;
+  letter-spacing: 1.3rem;
+  text-transform: lowercase;
+  color: #39FF14;
+  text-shadow: 0 0 5px #C8C8C8;
+}
+
+h1-cyber {
+  font-size: 33.1776px;
+}
+@media screen and (min-width: 320px) {
+  h1-cyber {
+    font-size: calc(33.1776px + 28.288 * (100vw - 320px) / 960);
+  }
+}
+@media screen and (min-width: 1280px) {
+  h1-cyber {
+    font-size: 61.4656px;
+  }
+}
+
+h2-cyber {
+  font-size: 27.648px;
+}
+@media screen and (min-width: 320px) {
+  h2-cyber {
+    font-size: calc(27.648px + 16.256 * (100vw - 320px) / 960);
+  }
+}
+@media screen and (min-width: 1280px) {
+  h2-cyber {
+    font-size: 43.904px;
+  }
+}
+
+h3-cyber {
+  font-size: 23.04px;
+}
+@media screen and (min-width: 320px) {
+  h3-cyber {
+    font-size: calc(23.04px + 8.32 * (100vw - 320px) / 960);
+  }
+}
+@media screen and (min-width: 1280px) {
+  h3-cyber {
+    font-size: 31.36px;
+  }
+}
+
+h4-cyber {
+  font-size: 19.2px;
+}
+@media screen and (min-width: 320px) {
+  h4-cyber {
+    font-size: calc(19.2px + 3.2 * (100vw - 320px) / 960);
+  }
+}
+@media screen and (min-width: 1280px) {
+  h4-cyber {
+    font-size: 22.4px;
+  }
+}
+
+h5-cyber {
+  font-size: 16px;
+}
+@media screen and (min-width: 320px) {
+  h5-cyber {
+    font-size: calc(16px + 0 * (100vw - 320px) / 960);
+  }
+}
+@media screen and (min-width: 1280px) {
+  h5-cyber {
+    font-size: 16px;
+  }
+}
+
+h6-cyber {
+  font-size: 13.3333333333px;
+}
+@media screen and (min-width: 320px) {
+  h6-cyber {
+    font-size: calc(13.3333333333px + -1.9047619048 * (100vw - 320px) / 960);
+  }
+}
+@media screen and (min-width: 1280px) {
+  h6-cyber {
+    font-size: 11.4285714286px;
+  }
+}
+
 dt {
   font-weight: bold;
 }
