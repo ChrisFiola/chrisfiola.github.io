@@ -4,80 +4,10 @@ var store = [{
         "tags": [],
         "url": "/cyber/0-nothing-here/"
       },{
-        "title": "1 Cybersecuritypath",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/1-CyberSecurityPath/"
-      },{
-        "title": "2 Undervolt",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/2-undervolt/"
-      },{
-        "title": "3 Pwnagotchi",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/3-pwnagotchi/"
-      },{
-        "title": "4 Pinapple",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/4-pinapple/"
-      },{
-        "title": "5 Home Setup",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/5-home-setup/"
-      },{
-        "title": "6 Ctfwriteup",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/6-ctfwriteUp/"
-      },{
-        "title": "7 Cyberconmtl",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/7-CyberConMTL/"
-      },{
         "title": "Section en construction 🚧",
         "excerpt":"Rien ici encore… ","categories": [],
         "tags": [],
         "url": "/cyber/0-rien-ici/"
-      },{
-        "title": "1 Cybersecuritypath",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/1-CyberSecurityPath/"
-      },{
-        "title": "2 Undervolt",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/2-undervolt/"
-      },{
-        "title": "3 Pwnagotchi",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/3-pwnagotchi/"
-      },{
-        "title": "4 Pinapple",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/4-pinapple/"
-      },{
-        "title": "5 Home Setup",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/5-home-setup/"
-      },{
-        "title": "6 Ctfwriteup",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/6-ctfwriteUp/"
-      },{
-        "title": "7 Cyberconmtl",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "/cyber/7-CyberConMTL/"
       },{
         "title": "2021-2022",
         "excerpt":"You will find the best results of the season on this page. Best 500m of the season 🥇 Best 1000m of the season 🥇 Best 1500m of the season 🥇 Season Bests Season Bests Christopher Fiola (CAN) 500 34,44 Calgary (CAN) 2022-03-19 1000 1.08,43 Calgary (CAN) 2022-03-19 1500 1.46,86 Calgary...","categories": [],
