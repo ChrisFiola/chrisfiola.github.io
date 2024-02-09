@@ -80,6 +80,10 @@ tag_archive_path: "/tags/#"
 #   - vendor/gems/
 #   - vendor/ruby/
 
+exclude:
+  - _cyber/en/_TODO
+  - _cyber/fr/_TODO
+
 # Disable safe mode
 safe: false
 
