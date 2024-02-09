@@ -4,80 +4,80 @@ var store = [{
         "tags": [],
         "url": "/cyber/0-nothing-here/"
       },{
-        "title": "1 Cybersecuritypath",
+        "title": "1 Cybersecuritypath.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/1-CyberSecurityPath/"
+        "url": "/cyber/1-CyberSecurityPath.md/"
       },{
-        "title": "2 Undervolt",
+        "title": "2 Undervolt.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/2-undervolt/"
+        "url": "/cyber/2-undervolt.md/"
       },{
-        "title": "3 Pwnagotchi",
+        "title": "3 Pwnagotchi.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/3-pwnagotchi/"
+        "url": "/cyber/3-pwnagotchi.md/"
       },{
-        "title": "4 Pinapple",
+        "title": "4 Pinapple.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/4-pinapple/"
+        "url": "/cyber/4-pinapple.md/"
       },{
-        "title": "5 Home Setup",
+        "title": "5 Home Setup.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/5-home-setup/"
+        "url": "/cyber/5-home-setup.md/"
       },{
-        "title": "6 Ctfwriteup",
+        "title": "6 Ctfwriteup.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/6-ctfwriteUp/"
+        "url": "/cyber/6-ctfwriteUp.md/"
       },{
-        "title": "7 Cyberconmtl",
+        "title": "7 Cyberconmtl.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/7-CyberConMTL/"
+        "url": "/cyber/7-CyberConMTL.md/"
       },{
         "title": "Section en construction 🚧",
         "excerpt":"Rien ici encore… ","categories": [],
         "tags": [],
         "url": "/cyber/0-rien-ici/"
       },{
-        "title": "1 Cybersecuritypath",
+        "title": "1 Cybersecuritypath.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/1-CyberSecurityPath/"
+        "url": "/cyber/1-CyberSecurityPath.md/"
       },{
-        "title": "2 Undervolt",
+        "title": "2 Undervolt.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/2-undervolt/"
+        "url": "/cyber/2-undervolt.md/"
       },{
-        "title": "3 Pwnagotchi",
+        "title": "3 Pwnagotchi.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/3-pwnagotchi/"
+        "url": "/cyber/3-pwnagotchi.md/"
       },{
-        "title": "4 Pinapple",
+        "title": "4 Pinapple.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/4-pinapple/"
+        "url": "/cyber/4-pinapple.md/"
       },{
-        "title": "5 Home Setup",
+        "title": "5 Home Setup.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/5-home-setup/"
+        "url": "/cyber/5-home-setup.md/"
       },{
-        "title": "6 Ctfwriteup",
+        "title": "6 Ctfwriteup.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/6-ctfwriteUp/"
+        "url": "/cyber/6-ctfwriteUp.md/"
       },{
-        "title": "7 Cyberconmtl",
+        "title": "7 Cyberconmtl.md",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "/cyber/7-CyberConMTL/"
+        "url": "/cyber/7-CyberConMTL.md/"
       },{
         "title": "2021-2022",
         "excerpt":"You will find the best results of the season on this page. Best 500m of the season 🥇 Best 1000m of the season 🥇 Best 1500m of the season 🥇 Season Bests Season Bests Christopher Fiola (CAN) 500 34,44 Calgary (CAN) 2022-03-19 1000 1.08,43 Calgary (CAN) 2022-03-19 1500 1.46,86 Calgary...","categories": [],
