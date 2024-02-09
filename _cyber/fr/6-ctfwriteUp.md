@@ -2,5 +2,5 @@
 title:
 excerpt:
 language: fr
-date: 
+date: 07-12-2023
 ---
