@@ -59,11 +59,11 @@ a {
   color: #0a71e2;
 }
 a:hover {
-  color: #0855aa;
+  color: rgb(7.5, 84.75, 169.5);
 }
 
 blockquote {
-  background-color: #e7f1fc;
+  background-color: rgb(230.5, 240.8, 252.1);
   border-left-color: #0a71e2;
 }
 
@@ -78,10 +78,10 @@ blockquote {
 }
 
 .copyright {
-  color: gray;
+  color: rgb(127.75, 127.75, 127.75);
 }
 .copyright a {
-  color: gray;
+  color: rgb(127.75, 127.75, 127.75);
 }
 
 .taxonomy-title {
@@ -89,22 +89,22 @@ blockquote {
 }
 
 .taxonomy-count {
-  color: silver;
+  color: rgb(191.5, 191.5, 191.5);
 }
 
 .taxonomy-index a {
-  border-bottom-color: #d9d9d9;
+  border-bottom-color: rgb(216.8, 216.8, 216.8);
 }
 .taxonomy-index a:hover {
   color: #0a71e2;
 }
 
 .taxonomy-section:not(:last-child) {
-  border-bottom-color: #d9d9d9;
+  border-bottom-color: rgb(216.8, 216.8, 216.8);
 }
 
 .back-to-top {
-  color: silver;
+  color: rgb(191.5, 191.5, 191.5);
 }
 
 .site-nav ul {
@@ -121,11 +121,11 @@ blockquote {
 }
 
 .site-footer {
-  border-top-color: #d9d9d9;
+  border-top-color: rgb(216.8, 216.8, 216.8);
 }
 
 .footnotes {
-  border-top-color: #d9d9d9;
+  border-top-color: rgb(216.8, 216.8, 216.8);
 }
 
 .site-logo-img {
@@ -133,7 +133,7 @@ blockquote {
 }
 
 .toc-wrapper {
-  border-color: #e3e3e3;
+  border-color: rgb(226.35, 226.35, 226.35);
 }
 .toc-wrapper h2 {
   color: #586e75;
@@ -143,7 +143,7 @@ blockquote {
   background-color: #fff;
 }
 .toc-wrapper li a:hover, .toc-wrapper li a:focus {
-  border-bottom: 1px dotted #d9d9d9;
+  border-bottom: 1px dotted rgb(216.8, 216.8, 216.8);
 }
 
 #menu-toggle {
@@ -159,19 +159,19 @@ blockquote {
 }
 
 .pagination li a {
-  color: #8d8d8d;
-  border-color: #d9d9d9;
+  color: rgb(140.4, 140.4, 140.4);
+  border-color: rgb(216.8, 216.8, 216.8);
 }
 .pagination li a.current, .pagination li a.current.disabled {
-  background-color: #8d8d8d;
+  background-color: rgb(140.4, 140.4, 140.4);
   color: #fff;
 }
 .pagination li a.disabled {
-  color: #d9d9d9;
+  color: rgb(216.8, 216.8, 216.8);
 }
 
 .search-input {
-  border-color: #d9d9d9;
+  border-color: rgb(216.8, 216.8, 216.8);
 }
 
 /* ==========================================================================
@@ -194,7 +194,7 @@ blockquote {
    ========================================================================== */
 th,
 td {
-  border-bottom-color: #d9d9d9;
+  border-bottom-color: rgb(216.8, 216.8, 216.8);
 }
 
 /* ==========================================================================
@@ -229,7 +229,7 @@ td {
   padding-top: 0;
 }
 .notice a {
-  color: #404040;
+  color: rgb(63.75, 63.75, 63.75);
 }
 .notice a:hover {
   color: #666666;
@@ -242,11 +242,11 @@ td {
 .notice--accent {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #b6d4f6;
+  background-color: rgb(181.5, 212.4, 246.3);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(182, 212, 246, 0.25);
-  box-shadow: 0 1px 1px rgba(182, 212, 246, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(181.5, 212.4, 246.3, 0.25);
+  box-shadow: 0 1px 1px rgba(181.5, 212.4, 246.3, 0.25);
 }
 .notice--accent h4 {
   margin-top: 0 !important; /* override*/
@@ -267,10 +267,10 @@ td {
   padding-top: 0;
 }
 .notice--accent a {
-  color: #2e353e;
+  color: rgb(45.375, 53.1, 61.575);
 }
 .notice--accent a:hover {
-  color: #495562;
+  color: rgb(72.6, 84.96, 98.52);
 }
 .notice--accent ul:last-child {
   margin-bottom: 0; /* override*/
@@ -305,7 +305,7 @@ td {
   padding-top: 0;
 }
 .notice--primary a {
-  color: #404040;
+  color: rgb(63.75, 63.75, 63.75);
 }
 .notice--primary a:hover {
   color: #666666;
@@ -318,11 +318,11 @@ td {
 .notice--warning {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #fff0b3;
+  background-color: rgb(255, 239.7, 178.5);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(255, 240, 179, 0.25);
-  box-shadow: 0 1px 1px rgba(255, 240, 179, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(255, 239.7, 178.5, 0.25);
+  box-shadow: 0 1px 1px rgba(255, 239.7, 178.5, 0.25);
 }
 .notice--warning h4 {
   margin-top: 0 !important; /* override*/
@@ -343,10 +343,10 @@ td {
   padding-top: 0;
 }
 .notice--warning a {
-  color: #403c2d;
+  color: rgb(63.75, 59.925, 44.625);
 }
 .notice--warning a:hover {
-  color: #666048;
+  color: rgb(102, 95.88, 71.4);
 }
 .notice--warning ul:last-child {
   margin-bottom: 0; /* override*/
@@ -356,11 +356,11 @@ td {
 .notice--success {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #c2eecd;
+  background-color: rgb(194.1, 238.2, 205.2);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(194, 238, 205, 0.25);
-  box-shadow: 0 1px 1px rgba(194, 238, 205, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(194.1, 238.2, 205.2, 0.25);
+  box-shadow: 0 1px 1px rgba(194.1, 238.2, 205.2, 0.25);
 }
 .notice--success h4 {
   margin-top: 0 !important; /* override*/
@@ -381,10 +381,10 @@ td {
   padding-top: 0;
 }
 .notice--success a {
-  color: #313c33;
+  color: rgb(48.525, 59.55, 51.3);
 }
 .notice--success a:hover {
-  color: #4e5f52;
+  color: rgb(77.64, 95.28, 82.08);
 }
 .notice--success ul:last-child {
   margin-bottom: 0; /* override*/
@@ -394,11 +394,11 @@ td {
 .notice--danger {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #ffc4c1;
+  background-color: rgb(255, 196.2, 192.9);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(255, 196, 193, 0.25);
-  box-shadow: 0 1px 1px rgba(255, 196, 193, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(255, 196.2, 192.9, 0.25);
+  box-shadow: 0 1px 1px rgba(255, 196.2, 192.9, 0.25);
 }
 .notice--danger h4 {
   margin-top: 0 !important; /* override*/
@@ -419,10 +419,10 @@ td {
   padding-top: 0;
 }
 .notice--danger a {
-  color: #403130;
+  color: rgb(63.75, 49.05, 48.225);
 }
 .notice--danger a:hover {
-  color: #664e4d;
+  color: rgb(102, 78.48, 77.16);
 }
 .notice--danger ul:last-child {
   margin-bottom: 0; /* override*/
@@ -432,11 +432,11 @@ td {
 .notice--info {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #ceeffe;
+  background-color: rgb(205.5, 238.5, 253.5);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(206, 239, 254, 0.25);
-  box-shadow: 0 1px 1px rgba(206, 239, 254, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(205.5, 238.5, 253.5, 0.25);
+  box-shadow: 0 1px 1px rgba(205.5, 238.5, 253.5, 0.25);
 }
 .notice--info h4 {
   margin-top: 0 !important; /* override*/
@@ -457,10 +457,10 @@ td {
   padding-top: 0;
 }
 .notice--info a {
-  color: #343c40;
+  color: rgb(51.375, 59.625, 63.375);
 }
 .notice--info a:hover {
-  color: #526066;
+  color: rgb(82.2, 95.4, 101.4);
 }
 .notice--info ul:last-child {
   margin-bottom: 0; /* override*/
@@ -499,7 +499,7 @@ td {
   color: #fff;
 }
 .btn--accent:hover {
-  background-color: #085ab5;
+  background-color: rgb(8, 90.4, 180.8);
   color: #fff;
 }
 .btn--accent:visited {
@@ -509,7 +509,7 @@ td {
 .btn--inverse {
   background-color: #fff;
   color: #000;
-  border: 1px solid #d9d9d9;
+  border: 1px solid rgb(216.8, 216.8, 216.8);
 }
 .btn--inverse:hover {
   background-color: #cccccc;
@@ -537,7 +537,7 @@ td {
   color: #fff;
 }
 .btn--success:hover {
-  background-color: #2a9f47;
+  background-color: rgb(41.6, 159.2, 71.2);
   color: #fff;
 }
 .btn--success:visited {
@@ -549,7 +549,7 @@ td {
   color: #000;
 }
 .btn--warning:hover {
-  background-color: #cca300;
+  background-color: rgb(204, 163.2, 0);
   color: #fff;
 }
 .btn--warning:visited {
@@ -561,7 +561,7 @@ td {
   color: #fff;
 }
 .btn--danger:hover {
-  background-color: #cc2f26;
+  background-color: rgb(204, 47.2, 38.4);
   color: #fff;
 }
 .btn--danger:visited {
@@ -585,7 +585,7 @@ td {
   color: #fff;
 }
 .btn--facebook:hover {
-  background-color: #2f477a;
+  background-color: rgb(47.2, 71.2, 121.6);
   color: #fff;
 }
 .btn--facebook:visited {
@@ -597,7 +597,7 @@ td {
   color: #fff;
 }
 .btn--twitter:hover {
-  background-color: #448abe;
+  background-color: rgb(68, 137.6, 190.4);
   color: #fff;
 }
 .btn--twitter:visited {
@@ -609,7 +609,7 @@ td {
   color: #fff;
 }
 .btn--google-plus:hover {
-  background-color: #b13c2e;
+  background-color: rgb(176.8, 60, 45.6);
   color: #fff;
 }
 .btn--google-plus:visited {
@@ -621,7 +621,7 @@ td {
   color: #fff;
 }
 .btn--linkedin:hover {
-  background-color: #006292;
+  background-color: rgb(0, 98.4, 145.6);
   color: #fff;
 }
 .btn--linkedin:visited {
@@ -633,7 +633,7 @@ td {
   color: #fff;
 }
 .btn--reddit:hover {
-  background-color: #cc3700;
+  background-color: rgb(204, 55.2, 0);
   color: #fff;
 }
 .btn--reddit:visited {

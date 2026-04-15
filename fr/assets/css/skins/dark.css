@@ -58,11 +58,11 @@ a {
   color: #00adb5;
 }
 a:hover {
-  color: #008288;
+  color: rgb(0, 129.75, 135.75);
 }
 
 blockquote {
-  background-color: #001112;
+  background-color: rgb(0, 17.3, 18.1);
   border-left-color: #00adb5;
 }
 
@@ -228,7 +228,7 @@ td {
   padding-top: 0;
 }
 .notice a {
-  color: #404040;
+  color: rgb(63.75, 63.75, 63.75);
 }
 .notice a:hover {
   color: #666666;
@@ -241,11 +241,11 @@ td {
 .notice--accent {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #b3e6e9;
+  background-color: rgb(178.5, 230.4, 232.8);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(179, 230, 233, 0.25);
-  box-shadow: 0 1px 1px rgba(179, 230, 233, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(178.5, 230.4, 232.8, 0.25);
+  box-shadow: 0 1px 1px rgba(178.5, 230.4, 232.8, 0.25);
 }
 .notice--accent h4 {
   margin-top: 0 !important; /* override*/
@@ -266,10 +266,10 @@ td {
   padding-top: 0;
 }
 .notice--accent a {
-  color: #2d3a3a;
+  color: rgb(44.625, 57.6, 58.2);
 }
 .notice--accent a:hover {
-  color: #485c5d;
+  color: rgb(71.4, 92.16, 93.12);
 }
 .notice--accent ul:last-child {
   margin-bottom: 0; /* override*/
@@ -304,7 +304,7 @@ td {
   padding-top: 0;
 }
 .notice--primary a {
-  color: #404040;
+  color: rgb(63.75, 63.75, 63.75);
 }
 .notice--primary a:hover {
   color: #666666;
@@ -317,11 +317,11 @@ td {
 .notice--warning {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #fff3b6;
+  background-color: rgb(255, 242.7, 181.5);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(255, 243, 182, 0.25);
-  box-shadow: 0 1px 1px rgba(255, 243, 182, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(255, 242.7, 181.5, 0.25);
+  box-shadow: 0 1px 1px rgba(255, 242.7, 181.5, 0.25);
 }
 .notice--warning h4 {
   margin-top: 0 !important; /* override*/
@@ -342,10 +342,10 @@ td {
   padding-top: 0;
 }
 .notice--warning a {
-  color: #403d2e;
+  color: rgb(63.75, 60.675, 45.375);
 }
 .notice--warning a:hover {
-  color: #666149;
+  color: rgb(102, 97.08, 72.6);
 }
 .notice--warning ul:last-child {
   margin-bottom: 0; /* override*/
@@ -355,11 +355,11 @@ td {
 .notice--success {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #c1f1cd;
+  background-color: rgb(192.9, 241.2, 204.9);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(193, 241, 205, 0.25);
-  box-shadow: 0 1px 1px rgba(193, 241, 205, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(192.9, 241.2, 204.9, 0.25);
+  box-shadow: 0 1px 1px rgba(192.9, 241.2, 204.9, 0.25);
 }
 .notice--success h4 {
   margin-top: 0 !important; /* override*/
@@ -380,10 +380,10 @@ td {
   padding-top: 0;
 }
 .notice--success a {
-  color: #303c33;
+  color: rgb(48.225, 60.3, 51.225);
 }
 .notice--success a:hover {
-  color: #4d6052;
+  color: rgb(77.16, 96.48, 81.96);
 }
 .notice--success ul:last-child {
   margin-bottom: 0; /* override*/
@@ -393,11 +393,11 @@ td {
 .notice--danger {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #ffc7c4;
+  background-color: rgb(255, 199.2, 195.9);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(255, 199, 196, 0.25);
-  box-shadow: 0 1px 1px rgba(255, 199, 196, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(255, 199.2, 195.9, 0.25);
+  box-shadow: 0 1px 1px rgba(255, 199.2, 195.9, 0.25);
 }
 .notice--danger h4 {
   margin-top: 0 !important; /* override*/
@@ -418,10 +418,10 @@ td {
   padding-top: 0;
 }
 .notice--danger a {
-  color: #403231;
+  color: rgb(63.75, 49.8, 48.975);
 }
 .notice--danger a:hover {
-  color: #66504e;
+  color: rgb(102, 79.68, 78.36);
 }
 .notice--danger ul:last-child {
   margin-bottom: 0; /* override*/
@@ -431,11 +431,11 @@ td {
 .notice--info {
   margin: 2em 0 !important; /* override*/
   padding: 1em;
-  background-color: #d1f2ff;
+  background-color: rgb(208.5, 241.5, 255);
   color: #000;
   border-radius: 0.25rem;
-  -webkit-box-shadow: 0 1px 1px rgba(209, 242, 255, 0.25);
-  box-shadow: 0 1px 1px rgba(209, 242, 255, 0.25);
+  -webkit-box-shadow: 0 1px 1px rgba(208.5, 241.5, 255, 0.25);
+  box-shadow: 0 1px 1px rgba(208.5, 241.5, 255, 0.25);
 }
 .notice--info h4 {
   margin-top: 0 !important; /* override*/
@@ -456,10 +456,10 @@ td {
   padding-top: 0;
 }
 .notice--info a {
-  color: #343d40;
+  color: rgb(52.125, 60.375, 63.75);
 }
 .notice--info a:hover {
-  color: #546166;
+  color: rgb(83.4, 96.6, 102);
 }
 .notice--info ul:last-child {
   margin-bottom: 0; /* override*/
@@ -498,7 +498,7 @@ td {
   color: #fff;
 }
 .btn--accent:hover {
-  background-color: #008a91;
+  background-color: rgb(0, 138.4, 144.8);
   color: #fff;
 }
 .btn--accent:visited {
@@ -536,7 +536,7 @@ td {
   color: #fff;
 }
 .btn--success:hover {
-  background-color: #26a746;
+  background-color: rgb(38.4, 167.2, 70.4);
   color: #fff;
 }
 .btn--success:visited {
@@ -548,7 +548,7 @@ td {
   color: #000;
 }
 .btn--warning:hover {
-  background-color: #ccab08;
+  background-color: rgb(204, 171.2, 8);
   color: #fff;
 }
 .btn--warning:visited {
@@ -560,7 +560,7 @@ td {
   color: #fff;
 }
 .btn--danger:hover {
-  background-color: #cc372e;
+  background-color: rgb(204, 55.2, 46.4);
   color: #fff;
 }
 .btn--danger:visited {
@@ -584,7 +584,7 @@ td {
   color: #fff;
 }
 .btn--facebook:hover {
-  background-color: #2f477a;
+  background-color: rgb(47.2, 71.2, 121.6);
   color: #fff;
 }
 .btn--facebook:visited {
@@ -596,7 +596,7 @@ td {
   color: #fff;
 }
 .btn--twitter:hover {
-  background-color: #448abe;
+  background-color: rgb(68, 137.6, 190.4);
   color: #fff;
 }
 .btn--twitter:visited {
@@ -608,7 +608,7 @@ td {
   color: #fff;
 }
 .btn--google-plus:hover {
-  background-color: #b13c2e;
+  background-color: rgb(176.8, 60, 45.6);
   color: #fff;
 }
 .btn--google-plus:visited {
@@ -620,7 +620,7 @@ td {
   color: #fff;
 }
 .btn--linkedin:hover {
-  background-color: #006292;
+  background-color: rgb(0, 98.4, 145.6);
   color: #fff;
 }
 .btn--linkedin:visited {
@@ -632,7 +632,7 @@ td {
   color: #fff;
 }
 .btn--reddit:hover {
-  background-color: #cc3700;
+  background-color: rgb(204, 55.2, 0);
   color: #fff;
 }
 .btn--reddit:visited {
